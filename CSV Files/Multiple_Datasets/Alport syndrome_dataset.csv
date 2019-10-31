@@ -1,0 +1,4 @@
+Name,Definition,Synonym,Output
+autosomal dominant Alport syndrome,An Alport syndrome that has_material -basis_in heterozygous mutation in the COL4A3 gene.,hemoglobin H disease,Alport syndrome
+autosomal recessive Alport syndrome,An Alport syndrome that has_material -basis_in homozygous or compound heterozygous mutation in the COL4A3 or the COL4A4 gene,hemoglobin H disease,Alport syndrome
+X-linked Alport syndrome,An Alport syndrome that has_material_basis_in mutation in the gene encoding the alpha-5 chain of basement membrane collagen type IV (COL4A5).,nephropathy and deafness,Alport syndrome

@@ -1,0 +1,9 @@
+Name,Definition,Synonym,Output
+mucosal melanoma,A melanoma that has_material_basis_in melanocytes located_in mucosal membranes lining the respiratory,SETTLE tumor,melanoma
+malignant spindle cell melanoma,A melanoma that is composed of spindled neoplastic cells arranged in sheets and fascicles.,Spitzoid malignant melanoma,melanoma
+obsolete spindle cell cancer,A sarcoma that is located_in the skin or located_in tissues that line or cover internal organs and that contains long spindle-shaped cells.,malignant tumor,melanoma
+obsolete Hair nevus,A sarcoma that is located_in the skin or located_in tissues that line or cover internal organs and that contains long spindle-shaped cells.,Nevoid hypertrichosis,melanoma
+amelanotic melanoma,A dermatophytosis that results_in contagious fungal infection located_in scalp,Amelanotic melanoma,melanoma
+epithelioid cell melanoma,A dermatophytosis that results_in contagious fungal infection located_in scalp,epithelioid melanoma,melanoma
+familial melanoma,A breast intraductal proliferative lesion that is characterized by columnar cell changes with cytologic atypia.,sarcomatoid transitional cell carcinoma of renal Pelvis,melanoma
+melanomatosis,A malignant teratoma characterized by the presence of an intermediate amount of undifferentiated tissues.,malignant teratoma,melanoma

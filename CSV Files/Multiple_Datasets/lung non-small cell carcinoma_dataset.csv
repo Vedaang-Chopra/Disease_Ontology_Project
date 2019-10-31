@@ -1,0 +1,4 @@
+Name,Definition,Synonym,Output
+lung non-squamous non-small cell carcinoma,A lung non-small cell carcinoma that is characterized by the lack of evidence of squamous differentiation.,non- squamous NSCLC,lung non-small cell carcinoma
+lung squamous cell carcinoma,A non-small cell lung carcinoma that has_material_basis_in the squamous cell.,squamous cell carcinoma of lung,lung non-small cell carcinoma
+lung large cell carcinoma,An ovarian carcinoma that is characterized by large pleiomorphic cells with large round or oval nuclei,large cell lung carcinoma,lung non-small cell carcinoma

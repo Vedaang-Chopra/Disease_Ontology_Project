@@ -1,0 +1,6 @@
+Name,Definition,Synonym,Output
+calcium metabolism disease,A bone remodeling disease that has_material_basis_in a vitamin D deficiency which results_in softening located_in bone.,vitamin D deficiency (disorder),mineral metabolism disease
+iron metabolism disease,An intestinal benign neoplasm that is located_in the colon.,iron disorder,mineral metabolism disease
+phosphorus metabolism disease,A respiratory system benign neoplasm that derives_from smooth muscle cells and is located_in the trachea.,phosphorus metabolism disorder,mineral metabolism disease
+obsolete hypercholesterolemia,A respiratory system benign neoplasm that derives_from smooth muscle cells and is located_in the trachea.,hypercholesterolaemia,mineral metabolism disease
+hypokalemia,A muscular dystrophy that is characterized by progressive muscle wasting and weakness.,potassium deficiency disorder,mineral metabolism disease

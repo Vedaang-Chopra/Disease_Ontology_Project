@@ -1,0 +1,10 @@
+Name,Definition,Synonym,Output
+labium majus cancer,A vulva cancer that is located_in the labium majus.,malignant tumor of Labia Majora,vulva cancer
+vulvar squamous tumor,A vulva cancer that has_material_basis in squamous tissue.,tumor of Bartholin's gland,vulva cancer
+vulvar glandular tumor,A vulva cancer that has_material_basis in glandular tissue.,adenoma of minor vestibular glands,vulva cancer
+obsolete vulvar congenital melanocytic nevus,A vulva cancer that has_material_basis in glandular tissue.,adenoma of minor vestibular glands,vulva cancer
+vulvar melanoma,A vulva cancer that has_material_basis in melanocytes.,malignant melanoma of vulva,vulva cancer
+obsolete vulvar sweat gland cancer,A vulva cancer that has_material_basis in melanocytes.,malignant melanoma of vulva,vulva cancer
+vulvar sarcoma,A vulva cancer that has_material_basis in connective tissue.,sarcoma of vulva,vulva cancer
+clitoris cancer,A vulva cancer that is located_in the clitoris.,malignant tumor of Clitoris,vulva cancer
+obsolete lymphangiectasis,A vulva cancer that is located_in the clitoris.,Lymphangiectasis (morphologic abnormality),vulva cancer

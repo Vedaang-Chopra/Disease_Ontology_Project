@@ -1,0 +1,8 @@
+Name,Definition,Synonym,Output
+ceftriaxone allergy,A cephalosporin allergy that has_allergic_trigger ceftriaxone.,rocephin allergy,cephalosporin allergy
+cefotaxime allergy,A cephalosporin allergy that has_allergic_trigger cefotaxime.,mannitol allergy,cephalosporin allergy
+cefaclor allergy,A drug allergy that has_allergic_trigger amodiaquine.,cephaclor allergy,cephalosporin allergy
+ceftazidime allergy,A cephalosporin allergy that has_allergic_trigger ceftazidime.,Tazicef allergy,cephalosporin allergy
+cefuroxime allergy,A cephalosporin allergy that has_allergic_trigger cefuroxime.,Zinacef allergy,cephalosporin allergy
+cefixime allergy,A cephalosporin allergy that has_allergic_trigger cefixime.,TMP allergy,cephalosporin allergy
+cefotiam allergy,A cephalosporin allergy that has_allergic_trigger cefotiam.,neoprene allergy,cephalosporin allergy

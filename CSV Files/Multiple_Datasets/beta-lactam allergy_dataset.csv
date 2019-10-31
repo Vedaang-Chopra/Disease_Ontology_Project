@@ -1,0 +1,6 @@
+Name,Definition,Synonym,Output
+benzylpenicillin allergy,A beta-lactam allergy that has_allergic_trigger benzylpenicillin.,penicillin G allergy,beta-lactam allergy
+amoxicillin allergy,A beta-lactam allergy that has_allergic_trigger amoxicillin.,penicillin G allergy,beta-lactam allergy
+piperacillin allergy,A beta-lactam allergy that has_allergic_trigger piperacillin.,Voltaren allergy,beta-lactam allergy
+aztreonam allergy,A beta-lactam allergy that has_allergic_trigger aztreonam.,Primbactam allergy,beta-lactam allergy
+penicillin allergy,A beta-lactam allergy triggered by penicillin.,Oncorhynchus mykiss allergy,beta-lactam allergy

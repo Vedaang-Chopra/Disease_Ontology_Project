@@ -1,0 +1,6 @@
+Name,Definition,Synonym,Output
+meropenem allergy,A beta-lactam allergy that has_allergic_trigger meropenem.,Merrem allergy,isocyanates allergic asthma
+hexamethylene diisocyanate allergic asthma,An allergic asthma to isocyanates that has_allergic_trigger hexamethylene diisocyanate.,allergic asthma to HMDI,isocyanates allergic asthma
+diphenylmethane-4,An allergic asthma to isocyanates that has_allergic_trigger diphenylmethane-4,allergic asthma to MDI,isocyanates allergic asthma
+toluene meta-diisocyanate allergic asthma,An allergic asthma to isocyanates that has_allergic_trigger toluene meta-diisocyanate.,allergic asthma to TDI,isocyanates allergic asthma
+methyl isocyanate allergic asthma,An allergic asthma to isocyanates that has_allergic_trigger methyl isocyanate.,allergic asthma to MIC,isocyanates allergic asthma

@@ -1,0 +1,14 @@
+Name,Definition,Synonym,Output
+primary systemic mycosis,A systemic mycosis that results_in infection located_in human body,urogenital trichomonas,systemic mycosis
+obsolete Scopulariopsis brevicaulis infectious disease,An opportunistic mycosis that results_in fungal infection located_in nail,urogenital trichomonas,systemic mycosis
+obsolete Scytalidium hyalinum infectious disease,A dermatomycosis that results_in fungal infection located_in hand,urogenital trichomonas,systemic mycosis
+obsolete cutaneous sporotrichosis,A primary systemic mycosis that results_in fungal infection located_in skin and located_in subcutaneous tissue through direct inoculation from wood splinters or hay,plaque sporotrichosis,systemic mycosis
+obsolete Asfarviridae infectious disease,A dsDNA virus infectious disease that results_in infection in pigs,plaque sporotrichosis,systemic mycosis
+obsolete primary Francisellaceae infectious disease,A dsDNA virus infectious disease that results_in infection in pigs,plaque sporotrichosis,systemic mycosis
+obsolete adenovirus infectious disease,A viral infectious disease that results_in infection in cattle,Adenoviridae infectious disease,systemic mycosis
+obsolete Simplexvirus infectious disease,A viral infectious disease that results_in infection in animals and humans,Adenoviridae infectious disease,systemic mycosis
+obsolete Deltavirus infectious disease,A (-)ssRNA virus infectious disease that results_in infection located_in liver in humans,Adenoviridae infectious disease,systemic mycosis
+obsolete Polyomaviridae infectious disease,A dsDNA virus infectious disease that results_in infection in animals and humans,Adenoviridae infectious disease,systemic mycosis
+obsolete Varicellovirus infectious disease,A viral infectious disease that results_in infection in animals and humans,Adenoviridae infectious disease,systemic mycosis
+obsolete Hepacivirus infectious disease,A Flaviviridae infectious disease that results_in infection,Adenoviridae infectious disease,systemic mycosis
+opportunistic mycosis,A systemic mycosis that results_in fungal infection located_in human body of immunocompromised individuals,opportunistic systemic mycoses,systemic mycosis

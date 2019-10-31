@@ -1,0 +1,17 @@
+Name,Definition,Synonym,Output
+bacterial sepsis,A bacterial infectious disease has_material_basis_in Bacteria.,ETO allergy,bacterial infectious disease
+primary bacterial infectious disease,A bacterial infectious disease that results_in infection by bacteria as a result of their presence or activity within the normal,prolonged electroretinal response suppression,bacterial infectious disease
+commensal bacterial infectious disease,A bacterial infectious disease that results_in infection by bacteria which are part of the normal human flora when one or more of the defense mechanisms designed to restrict them from the usually sterile internal tissues are breached by accident,prolonged electroretinal response suppression,bacterial infectious disease
+opportunistic bacterial infectious disease,A bacterial infectious disease that results_in infection by bacteria in individuals whose host defense mechanisms have been compromised.,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete opportunistic Actinomycetales infectious disease,A bacterial infectious disease that results_in infection by bacteria in individuals whose host defense mechanisms have been compromised.,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete commensal Actinomycetales infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete Gardnerella vaginalis vaginosis,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete commensal Bifidobacteriaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete primary Thermomonosporaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete primary Corynebacteriaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete primary Mycobacteriaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete primary Streptomycetaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete opportunistic Nocardiaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete primary Clostridiaceae infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+obsolete primary Clostridium infectious disease,A commensal bacterial infectious disease that results_in infection,prolonged electroretinal response suppression,bacterial infectious disease
+rheumatic fever,A connective tissue disease that develops from an antecedent Group A Streptococcal pharyngeal infection and has_symptom carditis,RhF - Rheumatic fever,bacterial infectious disease

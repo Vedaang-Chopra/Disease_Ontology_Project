@@ -1,0 +1,27 @@
+Name,Definition,Synonym,Output
+colitis,An inflammatory bowel disease that involves inflammation located_in colon.,X-linked mental retardation with spastic diplegia,inflammatory bowel disease
+inflammatory bowel disease 7,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 1p36.,IBD7,inflammatory bowel disease
+inflammatory bowel disease 17,An inflammatory bowel disease that has_material_basis_in variation in the IL23R gene on chromosome 1p31.3.,IBD17,inflammatory bowel disease
+inflammatory bowel disease 23,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 1q32.1.,IBD23,inflammatory bowel disease
+inflammatory bowel disease 10,An inflammatory bowel disease that has_material_basis_in variation in the ATG16L1 gene on chromosome 2q37.,inflammatory bowel disease (Crohn disease) 10,inflammatory bowel disease
+inflammatory bowel disease 9,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 3p26.,IBD9,inflammatory bowel disease
+inflammatory bowel disease 12,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 3p21.3.,IBD12,inflammatory bowel disease
+inflammatory bowel disease 18,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 5p13.1.,IBD18,inflammatory bowel disease
+inflammatory bowel disease 5,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 5q31.,IBD5,inflammatory bowel disease
+inflammatory bowel disease 19,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 5q33.1.,inflammatory bowel disease (Crohn disease) 19,inflammatory bowel disease
+inflammatory bowel disease 1,An inflammatory bowel disease that has_material_basis_in mutations in the NOD2 gene on chromosome 16q12.1.,IBD1,inflammatory bowel disease
+inflammatory bowel disease 13,An inflammatory bowel disease that has_material_basis_in variation in the ABCB1 gene on chromosome 7q21.1.,IBD13,inflammatory bowel disease
+inflammatory bowel disease 11,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 7q22.,IBD11,inflammatory bowel disease
+inflammatory bowel disease 14,An inflammatory bowel disease that has_material_basis_in variation in the IRF5 gene on chromosome 7q32.,IBD14,inflammatory bowel disease
+inflammatory bowel disease 16,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 9q32.,IBD16,inflammatory bowel disease
+inflammatory bowel disease 15,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 10q21.,IBD15,inflammatory bowel disease
+inflammatory bowel disease 20,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 10q23-q24.,IBD20,inflammatory bowel disease
+inflammatory bowel disease 2,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 12p13.2-q24.1.,IBD2,inflammatory bowel disease
+inflammatory bowel disease 26,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 12q15.,IBD26,inflammatory bowel disease
+inflammatory bowel disease 27,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 13q13.3.,IBD27,inflammatory bowel disease
+inflammatory bowel disease 4,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 14q11-q12.,IBD4,inflammatory bowel disease
+inflammatory bowel disease 8,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 16p.,IBD8,inflammatory bowel disease
+inflammatory bowel disease 22,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 17q21.2.,IBD22,inflammatory bowel disease
+inflammatory bowel disease 6,An inflammatory bowel disease that has_material_basis_in variation in the chromosome region 19p13.,IBD6,inflammatory bowel disease
+inflammatory bowel disease 24,An inflammatory bowel disease that has_material_basis_in variation in the chromosome 20q13.,IBD24,inflammatory bowel disease
+Crohn's disease,An intestinal disease that involves inflammation located_in intestine.,Pediatric Crohn's disease,inflammatory bowel disease

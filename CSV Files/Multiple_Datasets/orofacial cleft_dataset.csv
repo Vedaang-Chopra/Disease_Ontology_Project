@@ -1,0 +1,17 @@
+Name,Definition,Synonym,Output
+orofacial cleft 1,An orofacial cleft characterized by autosomal dominant inheritance that has_material_basis_in variation in chromosome region 6p24.3.,nonsyndromic cleft lip with or without cleft palate 1,orofacial cleft
+orofacial cleft 2,An orofacial cleft that has_material_basis_in variation in the chromosome region 2p13.,nonsyndromic cleft lip with or without cleft palate 2,orofacial cleft
+orofacial cleft 3,An orofacial cleft that has_material_basis_in variation in the chromosomal region 19q13.,nonsyndromic cleft lip with or without cleft palate 3,orofacial cleft
+orofacial cleft 4,An orofacial cleft that has_material_basis_in variation in the 4q21-q31 chromosomal region.,nonsyndromic cleft lip with or without cleft palate 4,orofacial cleft
+orofacial cleft 5,An orofacial cleft that has_material_basis_in mutation in the MSX1 gene on chromosome 4p16.,nonsyndromic cleft lip with or without cleft palate 5,orofacial cleft
+orofacial cleft 7,An orofacial cleft that has_material_basis_in by homozygous mutation in the PVRL1 gene on chromosome 11q23.,Zlotogora-Ogur syndrome,orofacial cleft
+orofacial cleft 8,An orofacial cleft that has_material_basis_in heterozygous mutation in the TP63 gene on chromosome 3q28.,Zlotogora-Ogur syndrome,orofacial cleft
+orofacial cleft 9,An orofacial cleft that has_material_basis_in variation in the chromosome region 13q33.1-q34.,nonsyndromic cleft lip with or without cleft palate 9,orofacial cleft
+orofacial cleft 10,An orofacial cleft that has_material_basis_in mutation in the SUMO1 gene on chromosome 2q33.,nonsyndromic cleft lip with or without cleft palate 10,orofacial cleft
+orofacial cleft 11,An orofacial cleft that has_material_basis_in heterozygous mutation in the BMP4 gene on chromosome 14q22.,nonsyndromic cleft lip with or without cleft palate 11,orofacial cleft
+orofacial cleft 12,An orofacial cleft that has_material_basis_in variation in the chromosome region 8q24.3.,nonsyndromic cleft lip with or without cleft palate 12,orofacial cleft
+orofacial cleft 13,An orofacial cleft characterized by autosomal doninant inhertitance that has_material_basis_in variation in chromosome region 1p33 associated with enrichment of the T allele of SNP rs3827730.,nonsyndromic cleft lip with or without cleft palate 12,orofacial cleft
+orofacial cleft 14,An orofacial cleft that is characterized by incomplete median clefts of both the lower lip and upper lip,nonsyndromic cleft lip with or without cleft palate 12,orofacial cleft
+orofacial cleft 15,An orofacial cleft that has_material_basis_in mutation in the DLX4 gene on chromosome 17q21.,nonsyndromic cleft lip with or without cleft palate 12,orofacial cleft
+cleft palate,An orofacial cleft characterized by a fissure of the soft and/or hard palate,Palatoschisis,orofacial cleft
+cleft lip,A peripheral vascular disease characterized by blood trapped in the penis that is unable to drain.,Labium leporinum,orofacial cleft

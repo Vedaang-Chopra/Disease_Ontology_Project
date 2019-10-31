@@ -1,0 +1,10 @@
+Name,Definition,Synonym,Output
+uterine corpus endometrial carcinoma,A uterine corpus cancer that is derives_from the inner lining of the uterus.,clear-cell ovarian carcinoma,uterine corpus cancer
+uterine body mixed cancer,A uterine corpus cancer that has_material_basis_in more than one type of cell.,malignant mixed tumor of Corpus Uteri,uterine corpus cancer
+adenomyoma of uterine corpus,A uterine corpus cancer that has_material_basis_in gland and muscle components.,uterine corpus adenomyoma,uterine corpus cancer
+uterine corpus sarcoma,An uterine corpus cancer that is located_in the muscles of the uterus or located_in other tissues that support the uterus.,sarcoma of uterus,uterine corpus cancer
+uterine corpus serous adenocarcinoma,A uterine corpus cancer that is characterized histologically by papillae with fibrovascular cores,uterine serous carcinoma,uterine corpus cancer
+uterus perivascular epithelioid cell tumor,A perivascular epithelioid cell tumor that is located_in the uterus.,uterine corpus PEComa,uterine corpus cancer
+uterine corpus choriocarcinoma,A choriocarcinoma that is located_in the uterine corpus.,Gestational Choriocarcinoma of the fallopian tube,uterine corpus cancer
+mixed endometrial stromal and smooth muscle tumor,A uterine corpus cancer that has_material_basis_in endometrial stroma and smooth muscle cells.,Stromomyoma,uterine corpus cancer
+isthmus cancer,A lysosomal storage disease that involves the accumulation of harmful amounts of lipids (fats) in some of the body's cells and tissues.,lipoidosis,uterine corpus cancer

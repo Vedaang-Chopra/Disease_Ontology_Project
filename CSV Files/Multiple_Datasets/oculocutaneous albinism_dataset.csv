@@ -1,0 +1,18 @@
+Name,Definition,Synonym,Output
+oculocutaneous albinism type IA,An oculocutaneous albinism that has_material_basis_in an autosomal recessive null mutation of TYR on chromosome 11q14.3 with no residual protein activity.,Oculocutaneous Albinism,oculocutaneous albinism
+oculocutaneous albinism type IB,An oculocutaneous albinism that has_material_basis_in an autosomal recessive hypomorphic mutation of TYR on chromosome 11q14.3 with retention of some residual protein activity.,OCA1B,oculocutaneous albinism
+oculocutaneous albinism type II,An oculocutaneous albinism that has_material_basis_in an autosomal recessive mutation of OCA2 on chromosome 15q12-q13.,Oculocutaneous Albinism,oculocutaneous albinism
+oculocutaneous albinism type III,An oculocutaneous albinism that has_material_basis_in an autosomal recessive mutation of TYRP1 on chromosome 9p23.,Rufous Oculocutaneous Albinism,oculocutaneous albinism
+oculocutaneous albinism type IV,An oculocutaneous albinism that has_material_basis_in an autosomal recessive mutation of SLC45A2 on chromosome 5p13.2.,OCA4,oculocutaneous albinism
+oculocutaneous albinism type V,An oculocutaneous albinism that has_material_basis_in an autosomal recessive mutation of OCA5 on chromosome 4q24.,OCA5,oculocutaneous albinism
+oculocutaneous albinism type VII,An oculocutaneous albinism that has_material_basis_in an autosomal recessive mutation of C10orf11 on chromosome 10q22.2-q22.3.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 1,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of PTPN11 on chromosome 12q24.13.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 2,A Noonan syndrome that has_material_basis_in an autosomal recessive mutation.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 3,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of KRAS on chromosome 12p12.1.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 4,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of SOS1 on chromosome 2p22.1.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 5,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of RAF1 on chromosome 3p25.2.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 6,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of NRAS on chromosome 1p13.2.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 7,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of BRAF on chromosome 7q34.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 8,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of RIT1 on chromosome 1q22.,OCA7,oculocutaneous albinism
+obsolete Noonan syndrome 9,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of SOS2 on chromosome 14q21.3.,NS9,oculocutaneous albinism
+obsolete Noonan syndrome 10,A Noonan syndrome that has_material_basis_in an autosomal dominant mutation of LZTR1 on chromosome 22q11.21.,NS9,oculocutaneous albinism

@@ -1,0 +1,7 @@
+Name,Definition,Synonym,Output
+respiratory allergy,An allergic hypersensitiity disease located_in the respiratory tract.,airway allergy,allergic hypersensitivity disease
+drug allergy,A hypersensitivity reaction type I disease triggered by a drug.,airway allergy,allergic hypersensitivity disease
+metal allergy,A hypersensitivity reaction type I disease triggered by a metal.,airway allergy,allergic hypersensitivity disease
+gastrointestinal allergy,A hypersensitivity reaction type I disease located_in the gastrointestinal tract.,airway allergy,allergic hypersensitivity disease
+latex allergy,A hypersensitivity reaction type I disease triggered by latex.,Turbo cornutus allergy,allergic hypersensitivity disease
+allergic contact dermatitis,A contact dermititis that is an allergic skin reaction to foreign chemical or substances leading to red,Cecal adenocarcinoma,allergic hypersensitivity disease

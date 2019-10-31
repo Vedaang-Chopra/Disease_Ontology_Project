@@ -1,0 +1,37 @@
+Name,Definition,Synonym,Output
+aspirin allergy,A drug allergy that has_allergic_trigger acetylsalicylic acid.,ASA allergy,drug allergy
+carbamazepine allergy,A drug allergy that has_allergic_trigger carbamazepine.,Tegretol allergy,drug allergy
+abacavir allergy,A drug allergy that has_allergic_trigger abacavir.,ABC allergy,drug allergy
+isoniazide allergy,A drug allergy that has_allergic_trigger isoniazide.,isonicotinylhydrazide allergy,drug allergy
+lidocaine allergy,A drug allergy that has_allergic_trigger lidocaine.,xylocaine allergy,drug allergy
+mepivacaine allergy,A drug allergy that has_allergic_trigger mepivacaine.,Polocaine allergy,drug allergy
+phenobarbital allergy,A drug allergy that has_allergic_trigger phenobarbital.,phenobarbitone allergy,drug allergy
+phenytoin allergy,A drug allergy that has_allergic_trigger phenytoin.,Dilantin allergy,drug allergy
+ranitidine allergy,A drug allergy that has_allergic_trigger ranitidine.,Zantac allergy,drug allergy
+corticosteroid allergy,A drug allergy that has_allergic_trigger corticosteroid.,Zantac allergy,drug allergy
+sulfonamide allergy,A drug allergy that has_allergic_trigger sulfonamide.,Zantac allergy,drug allergy
+sulfamethoxazole allergy,A drug allergy that has_allergic_trigger sulfamethoxazole.,sulphamethoxazole allergy,drug allergy
+suprofen allergy,A drug allergy that has_allergic_trigger suprofen.,Profenal allergy,drug allergy
+thiopental allergy,A drug allergy that has_allergic_trigger thiopental.,pentothiobarbital allergy,drug allergy
+D-mannitol allergy,A drug allergy that has_allergic_trigger D-mannitol.,mannitol allergy,drug allergy
+cephalosporin allergy,A drug allergy that has_allergic_trigger cephalosporin.,mannitol allergy,drug allergy
+amodiaquine allergy,A drug allergy that has_allergic_trigger amodiaquine.,Flavoquine allergy,drug allergy
+chlorhexidine allergy,A drug allergy that has_allergic_trigger chlorhexidine.,Zinacef allergy,drug allergy
+cyclophosphamide allergy,A drug allergy that has_allergic_trigger cyclophosphamide.,cytophosphane allergy,drug allergy
+succinylcholine allergy,A drug allergy that has_allergic_trigger succinylcholine.,suxamethonium allergy,drug allergy
+trimethoprim allergy,A drug allergy that has_allergic_trigger trimethoprim.,TMP allergy,drug allergy
+diclofenac allergy,A drug allergy that has_allergic_trigger diclofenac.,Voltaren allergy,drug allergy
+carbapenem allergy,A drug allergy that has_allergic_trigger diclofenac.,Voltaren allergy,drug allergy
+rocuronium allergy,A drug allergy that has_allergic_trigger rocuronium.,Zemuron allergy,drug allergy
+sulfasalazine allergy,A drug allergy that has_allergic_trigger sulfasalazine.,Zemuron allergy,drug allergy
+tubocurarine allergy,A drug allergy that has_allergic_trigger tubocurarine.,DTC allergy,drug allergy
+quinidine allergy,A drug allergy that has_allergic_trigger quinidine.,Kinidin allergy,drug allergy
+melphalan allergy,A drug allergy that has_allergic_trigger melphalan.,Alkeran allergy,drug allergy
+co-trimoxazole allergy,A drug allergy that has_allergic_trigger co-trimoxazole.,trimethoprim/sulfamethoxazole allergy,drug allergy
+sodium aurothiomalate allergy,A drug allergy that has_allergic_trigger sodium aurothiomalate.,gold sodium thiomalate allergy,drug allergy
+phthalyl group allergy,A drug allergy that has_allergic_trigger phthalyl group.,phthalyl allergy,drug allergy
+alcuronium bromide allergy,A drug allergy that has_allergic_trigger alcuronium bromide.,phthalyl allergy,drug allergy
+gallamine allergy,A drug allergy that has_allergic_trigger gallamine.,phthalyl allergy,drug allergy
+patent blue V allergy,A drug allergy that has_allergic_trigger patent blue V.,allergic contact dermatitis to DNP,drug allergy
+oxirane allergy,A drug allergy that has_allergic_trigger oxirane.,ETO allergy,drug allergy
+beta-lactam allergy,A drug allergy triggered by a beta-lactam.,Oncorhynchus mykiss allergy,drug allergy

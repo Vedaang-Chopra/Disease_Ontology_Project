@@ -1,0 +1,20 @@
+Name,Definition,Synonym,Output
+Fanconi anemia complementation group V,A Fanconi anemia that has_material_basis_in homozygous mutation in the MAD2L2 gene on chromosome 1p36.,FANCV,Fanconi anemia
+Fanconi anemia complementation group T,A Fanconi anemia that has_material_basis_in compound heterozygous mutation in the UBE2T gene on chromosome 1q32.,FANCT,Fanconi anemia
+Fanconi anemia complementation group L,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the PHF9 gene on chromosome 2p16.,FANCL,Fanconi anemia
+Fanconi anemia complementation group D2,A Fanconi anemia that has_material_basis_in compound heterozygous or homozygous mutation in the FANCD2 gene on chromosome 3p25.,Fanconi pancytopenia type 4,Fanconi anemia
+Fanconi anemia complementation group E,A Fanconi anemia that has_material_basis_in homozygous mutation in the FANCE gene on chromosome 6p22-p21.,FANCE,Fanconi anemia
+Fanconi anemia complementation group U,A Fanconi anemia that has_material_basis_in homozygous mutation in the XRCC2 gene on chromosome 7q36.,FANCU,Fanconi anemia
+Fanconi anemia complementation group G,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the XRCC9 gene on chromosome 9p13.,FANCG,Fanconi anemia
+Fanconi anemia complementation group C,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the FANCC gene on chromosome 9q22.,Fanconi pancytopenia type 3,Fanconi anemia
+Fanconi anemia complementation group F,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the FANCF gene on chromosome 11p15.,FANCF,Fanconi anemia
+Fanconi anemia complementation group D1,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the BRCA2 gene on chromosome 13q13.,FANCD1,Fanconi anemia
+Fanconi anemia complementation group R,A Fanconi anemia that has_material_basis_in heterozygous mutation in the RAD51 gene on chromosome 15q15.,FANCR,Fanconi anemia
+Fanconi anemia complementation group I,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the FANCI gene on chromosome 15q26.,FANCI,Fanconi anemia
+Fanconi anemia complementation group P,A Fanconi anemia characterized by increased chromosomal instability,FANCP,Fanconi anemia
+Fanconi anemia complementation group Q,A Fanconi anemia that has_material_basis_in compound heterozygous mutation in the ERCC4 gene on chromosome 16p13.,FANCQ,Fanconi anemia
+Fanconi anemia complementation group N,A Fanconi anemia that has_material_basis_in compound heterozygous mutation in the PALB2 gene on chromosome 16p12.,FANCN,Fanconi anemia
+Fanconi anemia complementation group A,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the FANCA gene on chromosome 16q24.,FANCA,Fanconi anemia
+Fanconi anemia complementation group O,A Fanconi anemia that has_material_basis_in homozygous mutation in the RAD51C gene on chromosome 17q21-q24.,FANCO,Fanconi anemia
+Fanconi anemia complementation group J,A Fanconi anemia that has_material_basis_in homozygous or compound heterozygous mutation in the BRIP1 gene on chromosome 17q22.,FANCJ,Fanconi anemia
+Fanconi anemia complementation group B,A Fanconi anemia that has_material_basis_in mutation in the FANCB gene on chromosome Xp22.,Fanconi pancytopenia type 2,Fanconi anemia

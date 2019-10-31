@@ -1,0 +1,130 @@
+Name,Definition,Synonym,Output
+chikungunya,A viral infectious disease that results_in infection located_in joint,Chikungunya fever,viral infectious disease
+tick-borne encephalitis,A viral infectious disease that results_in inflammation located_in brain,Western European tick-borne encephalitis,viral infectious disease
+Nipah virus encephalitis,A viral infectious disease that results_in inflammation located_in brain,postmeasles encephalitis,viral infectious disease
+obsolete Lymphocytic choriomeningitis virus encephalitis,A lymphocytic choriomeningitis that results_in inflammation located_in brain,postmeasles encephalitis,viral infectious disease
+Argentine hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,postmeasles encephalitis,viral infectious disease
+Bolivian hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,postmeasles encephalitis,viral infectious disease
+Venezuelan hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,postmeasles encephalitis,viral infectious disease
+Brazilian hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,postmeasles encephalitis,viral infectious disease
+Chapare hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,postmeasles encephalitis,viral infectious disease
+Whitewater Arroyo hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,postmeasles encephalitis,viral infectious disease
+lujo hemorrhagic fever,A viral infectious disease that results_in infection,postmeasles encephalitis,viral infectious disease
+obsolete Cytomegalovirus hepatitis,A Cytomegalovirus infectious disease that results_in inflammation,postmeasles encephalitis,viral infectious disease
+exanthema subitum,A viral infectious disease that results_in infection in infants and children,Sixth Disease,viral infectious disease
+obsolete Banna virus encephalitis,A viral infectious disease that results_in inflammation located_in brain,Sixth Disease,viral infectious disease
+obsolete Anelloviridae infectious disease,A ssDNA virus infectious disease that results_in infection in humans,Sixth Disease,viral infectious disease
+obsolete dsDNA virus infectious disease,A DNA virus infectious disease that results_in infection,dsDNA virus infection,viral infectious disease
+obsolete ssDNA virus infectious disease,A DNA virus infectious disease that results_in infection,ssDNA virus infection,viral infectious disease
+obsolete dsDNA-RT virus infectious disease,A DNA virus infectious disease that results_in infection,dsDNA-RT virus infection,viral infectious disease
+obsolete dsRNA virus infectious disease,A RNA virus infectious disease that results_in infection,dsRNA virus infection,viral infectious disease
+obsolete (+)ssRNA virus infectious disease,A RNA virus infectious disease that results_in infection,positive-sense ssRNA virus infectious disease,viral infectious disease
+obsolete (-)ssRNA virus infectious disease,A RNA virus infectious disease that results_in infection,negative-sense ssRNA virus infectious disease,viral infectious disease
+obsolete ssRNA-RT virus infectious disease,A RNA virus infectious disease that results_in infection,ssRNA-RT virus infection,viral infectious disease
+obsolete human papilloma virus related anal squamous cell carcinoma,A human papillomavirus related squamous cell carcinoma that results_in infection located_in anus,ssRNA-RT virus infection,viral infectious disease
+obsolete human papilloma virus related vaginal squamous cell carcinoma,A human papillomavirus related squamous cell carcinoma that results_in infection located_in vagina,ssRNA-RT virus infection,viral infectious disease
+obsolete AIDS-related cryptosporidiosis,A human papillomavirus related squamous cell carcinoma that results_in infection located_in vagina,ssRNA-RT virus infection,viral infectious disease
+O'nyong'nyong fever,A viral infectious disease that results_in infection located_in joint,AIDS-related isosporiasis,viral infectious disease
+Barmah Forest virus disease,A viral infectious disease that results_in infection located_in joint,AIDS-related isosporiasis,viral infectious disease
+Ross River fever,A viral infectious disease that results_in infection located_in joint,Ross River virus disease,viral infectious disease
+obsolete Lymphocytic choriomeningitis virus meningitis,A lymphocytic choriomeningitis that results_in inflammation located_in meninges,Ross River virus disease,viral infectious disease
+obsolete Lymphocytic choriomeningitis virus meningoencephalitis,A lymphocytic choriomeningitis that results_in inflammation located_in meninges and located_in brain,Ross River virus disease,viral infectious disease
+Oropouche fever,A viral infectious disease that results in infection,Ross River virus disease,viral infectious disease
+Zika fever,A viral infectious disease that has_material_basis in Zika virus,Zika virus disease,viral infectious disease
+louping ill,A viral infectious disease that results in infection in sheep and rarely humans,Louping ill,viral infectious disease
+St. Louis encephalitis,A viral infectious disease that results_in inflammation located_in brain,Neuroinvasive St. Louis encephalitis virus infection,viral infectious disease
+hand,A viral infectious disease that results_in infection located_in skin,Vesicular stomatitis and exanthem,viral infectious disease
+epidemic pleurodynia,A viral infectious disease that results in necrosis located in intercostal muscle,Epidemic,viral infectious disease
+herpangina,A viral infectious disease that results in infection located in mouth,Vesicular pharyngitis,viral infectious disease
+common wart,A viral infectious disease that results_in infection located_in skin,Band-shaped keratopathy,viral infectious disease
+obsolete papillomavirus infectious disease,A viral infectious disease that has_material_basis_in human papillomaviruses,Tumor Virus Infections,viral infectious disease
+obsolete uterine cervix condylomata acuminata,An anogenital venereal wart that results_in infection located_in cervix,Condyloma of the Cervix Uteri,viral infectious disease
+acute hemorrhagic conjunctivitis,A viral infectious disease that results in inflammation located in conjunctiva,viral conjunctivitis,viral infectious disease
+rabies,A viral infectious disease that results in inflammation located in brain or located in spinal cord,Lyssa,viral infectious disease
+obsolete foot and mouth disease,A viral infectious disease that results_in infection in cattle and swine,Epizootic stomatitis,viral infectious disease
+hemorrhagic fever with renal syndrome,A viral infectious disease that is a hemorrhagic fever,Puumala virus nephropathy,viral infectious disease
+Kyasanur forest disease,A viral infectious disease that is a hemorrhagic fever,Histoplasmosis with retinitis,viral infectious disease
+obsolete acute schizophrenic episode subchronic state with acute exacerbation,A viral infectious disease that is a hemorrhagic fever,Histoplasmosis with retinitis,viral infectious disease
+Phlebotomus fever,A viral infectious disease that results in infection,Sandfly-borne phleboviral disease,viral infectious disease
+obsolete tickborne fever,A viral infectious disease that results in infection,Tick-borne fever NOS (disorder),viral infectious disease
+dengue disease,A viral infectious disease that results in infection,Dengue Fever,viral infectious disease
+Crimean-Congo hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,Crimean hemorrhagic fever,viral infectious disease
+hepatitis A,A viral infectious disease that results_in inflammation located_in liver,Viral hepatitis,viral infectious disease
+respiratory syncytial virus infectious disease,A viral infectious disease that results_in infection located_in upper respiratory tract or located_in lower respiratory tract,Retroverted incarcerated gravid uterus - delivered (disorder),viral infectious disease
+Rift Valley fever,A viral infectious disease that results_in infection,Salmonella pneumonia (disorder),viral infectious disease
+plantar wart,A viral infectious disease that results_in benign epithelial tumors located_in skin of the sole or toes of the foot,Verruca plantaris,viral infectious disease
+pharyngoconjunctival fever,A viral infectious disease that results in infection located in pharynx or located in conjunctiva,Pharyngoconjunctival fever,viral infectious disease
+hantavirus pulmonary syndrome,A viral infectious disease that results in infection located in lung,Cavernous Angioma of orbit,viral infectious disease
+obsolete adenovirus pneumonia,An adenovirus infectious disease described as the infection of the lungs by adenoviruses (1,Pneumonia due to adenovirus,viral infectious disease
+obsolete respiratory syncytial virus pneumonia,A respiratory syncytial virus infectious disease that results_in inflammation located_in lung,Pneumonia due to respiratory syncytial virus (disorder),viral infectious disease
+obsolete parainfluenzal pneumonia,A viral infectious disease that results_in inflammation located_in lung,Parainfluenza virus pneumonia (disorder),viral infectious disease
+obsolete SARS coronavirus pneumonia,A severe acute respiratory syndrome that results_in infection located_in lungs,SARS-associated coronavirus pneumonia,viral infectious disease
+obsolete Cytomegalovirus pneumonia,A Cytomegalovirus infectious disease that results_in inflammation,Cytomegaloviral pneumonia (disorder),viral infectious disease
+hepatitis C,A viral infectious disease that results_in inflammation located_in liver,Viral hepatitis C,viral infectious disease
+hepatitis B,A viral infectious disease that results_in inflammation located_in liver,Serum hepatitis,viral infectious disease
+hepatitis D,A viral infectious disease that results_in inflammation located_in liver,delta hepatitis,viral infectious disease
+West Nile fever,A viral infectious disease that results_in infection,West Nile Fever with encephalitis,viral infectious disease
+Newcastle disease,A viral infectious disease that results_in infection in birds and humans,Pseudo-fowlpest,viral infectious disease
+aleutian mink disease,A viral infectious disease that results_in inflammatory destruction located_in blood vessels of minks and rarely in humans,Aleutian disease,viral infectious disease
+severe acute respiratory syndrome,A viral infectious disease that results_in infection located_in respiratory tract,SARS-CoV infection,viral infectious disease
+obsolete coronavirus infectious disease,A Coronaviridae infectious disease that results_in infection in animals and humans,SARS-CoV infection,viral infectious disease
+obsolete Yellow fever virus infectious disease,A Flavivirus infectious disease that results_in infection,SARS-CoV infection,viral infectious disease
+obsolete Coronaviridae infectious disease,A Nidovirales infectious disease that results_in infection in animals and humans,SARS-CoV infection,viral infectious disease
+obsolete Nidovirales infectious disease,A (+)ssRNA virus infectious disease that results_in infection in animals and humans,SARS-CoV infection,viral infectious disease
+tropical spastic paraparesis,A viral infectious disease that results in inflammation located in spinal cord,Tropical spastic paraplegia,viral infectious disease
+monkeypox,A viral infectious disease that results in infection of primates,Thymoma,viral infectious disease
+obsolete lumpy skin disease,A viral infectious disease that results_in infection located_in skin and located_in mucous membrane of cattle,Thymoma,viral infectious disease
+obsolete fowlpox,A viral infectious disease results_in infection located_in skin,Thymoma,viral infectious disease
+obsolete infectious ectromelia,A viral infectious disease that results_in infection located in skin of mice,Mousepox (disorder),viral infectious disease
+obsolete infectious myxomatosis,A viral infectious disease that results_in infection located_in eyes or located_in upper respiratory tract of domestic rabbits,Mousepox (disorder),viral infectious disease
+vaccinia,A viral infectious disease that results_in infection,Mousepox (disorder),viral infectious disease
+obsolete Yersinia pseudotuberculosis infectious disease,A viral infectious disease that results_in infection,Pseudotuberculosis (disorder),viral infectious disease
+obsolete Yersinia infectious disease,A viral infectious disease that results_in infection,Yersiniosis [Ambiguous],viral infectious disease
+Ebola hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,Ebola virus disease,viral infectious disease
+obsolete Filoviridae infectious disease,A Mononegavirales infectious disease that results_in infection in animals and humans,Ebola virus disease,viral infectious disease
+Marburg hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,Marburg virus disease,viral infectious disease
+hepatitis E,A viral infectious disease that results_in inflammation located_in liver,Dermatitis due to arnica,viral infectious disease
+obsolete Astroviridae infectious disease,A (+)ssRNA virus infectious disease that results_in infection in animals and humans,Dermatitis due to arnica,viral infectious disease
+Colorado tick fever,A viral infectious disease that results_in infection,Tick fever,viral infectious disease
+obsolete Rotavirus infectious disease,A Reoviridae infectious disease that results_in inflammation located_in stomach and located_in intestine,Tick fever,viral infectious disease
+poliomyelitis,A viral infectious disease that results in destruction located in motor neurons,Postpolio syndrome,viral infectious disease
+borna disease,A viral infectious disease that results_in infection,Enzootic encephalomyelitis,viral infectious disease
+human immunodeficiency virus infectious disease,A viral infectious disease that results in destruction of immune system,HIV infection,viral infectious disease
+focal epithelial hyperplasia,A viral infectious disease that results_in infection located_in mouth,Multifocal epithelial hyperplasia,viral infectious disease
+progressive multifocal leukoencephalopathy,A viral infectious disease that involves reactivation of JC polyomavirus in immune-compromised individuals which causes the loss of white matter (which is made up of myelin,PML,viral infectious disease
+influenza,A viral infectious disease that results in infection,Influenza with other manifestations,viral infectious disease
+herpes zoster,A viral infectious disease that results_in infection located_in nerve fiber,Shingles,viral infectious disease
+herpes simplex,A viral infectious disease that results_in_formation_of lesions,Herpesvirus hominis disease,viral infectious disease
+infectious mononucleosis,A viral infectious disease that results in inflammation,Pfeiffer's disease,viral infectious disease
+measles,A viral infectious disease that results_in infection located_in skin,morbilli,viral infectious disease
+obsolete adhesions and disruptions of pupillary membranes,A viral infectious disease that results_in infection located_in skin,morbilli,viral infectious disease
+obsolete postherpetic trigeminal neuralgia,A viral infectious disease that results_in pain located_in trigeminal nerve,Post-herpetic trigeminal neuralgia (disorder),viral infectious disease
+obsolete Sezary's disease involving spleen,A viral infectious disease that results_in pain located_in trigeminal nerve,Szary's disease of spleen (disorder),viral infectious disease
+obsolete Hodgkin's lymphoma,A viral infectious disease that results_in pain located_in trigeminal nerve,Hodgkin's disease,viral infectious disease
+chickenpox,A viral infectious disease that results_in infection located_in skin,varicella,viral infectious disease
+milker's nodule,A viral infectious disease that results_in infection of cattle and humans,Pseudocowpox,viral infectious disease
+smallpox,A viral infectious disease that results in infection located in skin,Ordinary smallpox,viral infectious disease
+erythema infectiosum,A dermatitis that is an inflammatory skin condition resulting in flaky,Fifth disease,viral infectious disease
+obsolete universal ulcerative colitis,A dermatitis that is an inflammatory skin condition resulting in flaky,universal ulcerative (chronic) colitis,viral infectious disease
+contagious pustular dermatitis,A viral infectious disease that results_in infection located_in skin,thistle disease,viral infectious disease
+obsolete nodular lymphoma involving lymph nodes of head,A viral infectious disease that results_in infection located_in skin,nodular lymphoma of lymph nodes of head,viral infectious disease
+obsolete ulcerative proctosigmoiditis,A viral infectious disease that results_in infection located_in skin,ulcerative proctosigmoiditis,viral infectious disease
+rubella,A viral infectious disease that results_in infection located_in skin,german measles,viral infectious disease
+obsolete postherpetic polyneuropathy,A Varicellovirus infectious disease that results_in pain located_in nerve fiber,german measles,viral infectious disease
+molluscum contagiosum,A viral infectious disease that results_in infection located_in skin,Solar keratosis,viral infectious disease
+obsolete Mycosis fungoides involving lymph nodes of multiple sites,A viral infectious disease that results_in infection located_in skin,Mycosis fungoides of lymph nodes of multiple sites (disorder),viral infectious disease
+cowpox,A viral infectious disease that results_in infection in rodents,yaba,viral infectious disease
+obsolete lymphosarcoma involving lymph nodes of axilla and upper limb,A viral infectious disease that results_in infection in rodents,yaba,viral infectious disease
+obsolete Hodgkin's lymphoma,A viral infectious disease that results_in infection in rodents,yaba,viral infectious disease
+subacute sclerosing panencephalitis,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,Van Bogaert's sclerosing leukoencephalitis,viral infectious disease
+obsolete Hodgkin's lymphoma,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,mixed cellularity Hodgkin's disease stage III,viral infectious disease
+obsolete Burkitt's tumor or lymphoma involving lymph nodes of axilla and upper limb,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,Burkitt's lymphoma of lymph nodes of axilla and upper limb (disorder),viral infectious disease
+obsolete peripheral lymph node tuberculosis,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,Tuberculosis of peripheral lymph nodes,viral infectious disease
+obsolete malignant histiocytosis involving lymph nodes of head,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,malignant histiocytosis of lymph nodes of head,viral infectious disease
+obsolete Hodgkin's lymphoma,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,Hodgkin's disease,viral infectious disease
+obsolete Hodgkin's lymphoma,A viral infectious disease that results_in infection located_in brain and that  has_material_basis_in Measles virus which is immune resistant.,Hodgkin's disease,viral infectious disease
+Lassa fever,A viral infectious disease that results_in infection,arenaviral hemorrhagic fever,viral infectious disease
+Venezuelan equine encephalitis,A viral infectious disease that results_in inflammation located_in brain of horses and humans,Venezuelan equine fever,viral infectious disease
+obsolete equine encephalitis,An Alphavirus infectious disease that results_in inflammation located_in brain of horses and humans,Venezuelan equine fever,viral infectious disease
+yellow fever,A viral infectious disease that results in infection,Yellow fever,viral infectious disease
+Omsk hemorrhagic fever,A viral infectious disease that is a hemorrhagic fever,Ca ribs/sternum/clavicle,viral infectious disease

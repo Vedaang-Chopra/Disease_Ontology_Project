@@ -1,0 +1,8 @@
+Name,Definition,Synonym,Output
+agammaglobulinemia 4,An agammaglobulinemia that has_material_basis_in a mutation a homozygous mutation in the BLNK gene on chromosome 10q23.2.,BLNK deficiency,agammaglobulinemia
+Good syndrome,An agammaglobulinemia that is a condition where there is co-occurrence of deficient cell-mediated immunity and benign thymoma.,thymoma with hypogammaglobulinemia,agammaglobulinemia
+agammaglobulinemia 5,An agammaglobulinemia that has_material_basis_in heterozygous mutation in the LRRC8A gene on chromosome 9q34.,DIDMOAD,agammaglobulinemia
+common variable immunodeficiency,An agammaglobulinemia that is results in insufficient production of antibodies needed to respond to exposure of pathogens and is characterized by low Ig levels with phenotypically normal B cells that can proliferate but do not develop into Ig-producing cells.,sporadic hypogammaglobulinemia,agammaglobulinemia
+X-linked agammaglobulinemia,An agammaglobulinemia that is that has_material_basis_in a mutation in the Bruton's tyrosine kinase (BTK) gene on the X chromosome resulting in X-linked agammaglobulinemia type 1,BTK deficiency,agammaglobulinemia
+transient hypogammaglobulinemia,An ovarian germ cell teratoma that is composed of tissues that originate from two or three of the following germ layers,Seminoma of mediastinum,agammaglobulinemia
+obsolete Epstein-Barr virus related carcinoma,An Epstein-Barr virus infectious disease and is_a carcinoma that derives_from epithelial cells,EBV Related carcinoma,agammaglobulinemia

@@ -1,0 +1,18 @@
+Name,Definition,Synonym,Output
+ovarian melanoma,An ovarian cancer that has_material_basis_in melanoctyes.,SETTLE tumor,ovarian cancer
+ovarian malignant mesothelioma,An ovarian cancer that derives_from mesothelial tissue.,leiomyoma of the urethra,ovarian cancer
+malignant ovarian cyst,An ovarian cancer that is characterized by cystic structure.,leiomyoma of the urethra,ovarian cancer
+ovary sarcoma,An ovarian cancer that has_material_basis_in abnormally proliferating cells derives_from embryonic mesoderm.,sarcoma of Ovary,ovarian cancer
+obsolete ovary soft tissue neoplasm,An ovarian cancer that has_material_basis_in abnormally proliferating cells derives_from embryonic mesoderm.,soft tissue tumor of Ovary,ovarian cancer
+ovarian lymphoma,An ovarian cancer that arises_from lymphocytes.,Genitourinary tuberculosis,ovarian cancer
+ovarian Wilms' cancer,A malignant neoplasm of ovary and nephroblastoma that is located_in the ovaries.,ovarian Wilms' tumor,ovarian cancer
+ovarian germ cell cancer,An ovarian cancer that originates in the germ (egg) cells of the ovary.,ovarian germ cell tumor,ovarian cancer
+obsolete lung metastasis,An ovarian cancer that originates in the germ (egg) cells of the ovary.,secondary malignant neoplasm of lung (disorder),ovarian cancer
+granulosa cell tumor,An ovarian cancer that has_material_basis_in granulosa cells and arises from the sex cord stroma.,malignant granulosa cell neoplasm,ovarian cancer
+obsolete disease by environmental exposure,A disease that has an etiology of chemical exposure or exposure to other environmental factors excluding infectious agents.,environmentally induced disease,ovarian cancer
+ovary neuroendocrine neoplasm,An ovarian cancer that has_material_basis in nuroendocrine cells.,neuroendocrine tumor of Ovary,ovarian cancer
+ovarian angiosarcoma,An ovary sarcoma that is a malignant vascular tumor that derives_from blood vessels.,hemangiosarcoma of Ovary,ovarian cancer
+dermoid cyst of ovary,A dermoid cyst that is located_in the ovary.,Ovarian Dermoid Cyst,ovarian cancer
+ovarian squamous cell carcinoma,An ovarian carcinoma that derives_from squamous epithelial cells.,Epidermoid Thymic carcinoma,ovarian cancer
+ovarian clear cell malignant adenofibroma,An ovarian cancer that is characterized by low beta-hCG levels and is has_material_basis_in glandular and fibrous tissues,ovarian clear cell adenocarcinofibroma,ovarian cancer
+obsolete hamartoma of Spinal Cord,An ovarian cancer that is characterized by low beta-hCG levels and is has_material_basis_in glandular and fibrous tissues,hamartoma of the Spinal Cord,ovarian cancer

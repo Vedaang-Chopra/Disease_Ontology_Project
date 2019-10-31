@@ -1,0 +1,51 @@
+# from owlready2 import *
+# onto= get_ontology("http://purl.obolibrary.org/obo/doid.owl")
+# onto.load()
+# print(onto.classes())
+#
+# # onto = get_ontology("http://test.org/onto.owl")
+# with onto:
+#     class Drug(Thing):
+#         pass
+#
+# print(Drug.iri)
+#
+# class DrugAssociation(Drug):
+#     pass
+#
+# print(DrugAssociation.is_a)
+#
+# # print(Drug.subclass())
+# print(DrugAssociation.ancestors())
+# onto.save()
+# # onto = get_ontology("http://www.lesfleursdunormal.fr/static/_downloads/pizza_onto.owl")
+# # onto.load()
+# # print(onto.__init_subclass__())
+# # class NonVegetarianPizza(onto.Pizza):
+# #     equivalent_to = [
+# #         onto.Pizza
+# #         & ( onto.has_topping.some(onto.MeatTopping)
+# #         | onto.has_topping.some(onto.FishTopping)
+# #         ) ]
+# #     def eat(self): print("Beurk! I'm vegetarian!")
+# # # print(onto.pizza)
+# # nn=NonVegetarianPizza() ;
+# # print(nn.eat())
+# #
+# # test_pizza = NonVegetarianPizza(onto.Pizza("test_pizza_owl_identifier"))
+# # test_pizza.has_topping = [onto.CheeseTopping(),onto.TomatoTopping() ]
+# # test_pizza.has_topping.append(onto.MeatTopping())
+# # print(test_pizza.__class__)
+# # test_pizza = onto.Pizza("test_pizza_owl_identifier")
+# # print(test_pizza.eat())
+# # onto.save()
+# # print(onto.Pizza)
+
+
+
+import pronto
+ont = pronto.Ontology('doid.obo')
+print(ont.json)
+import json
+with open('doid.json', 'w') as json_file:
+    json.dump(ont.json, json_file)

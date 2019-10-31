@@ -1,0 +1,15 @@
+Name,Definition,Synonym,Output
+endodermal sinus tumor,A germ cell cancer that has_material_basis_in cells that line the yolk sac of the embryo.,Yolk sac tumor,germ cell cancer
+obsolete metastasis to vagina,A germ cell cancer that has_material_basis_in cells that line the yolk sac of the embryo.,secondary tumor to the vagina,germ cell cancer
+obsolete alternating exotropia with A pattern,A germ cell cancer that has_material_basis_in cells that line the yolk sac of the embryo.,Alternating exotropia with A pattern (disorder),germ cell cancer
+brain germinoma,A brain cancer that is characterized by abnormally proliferating cells,intracranial germinoma,germ cell cancer
+obsolete intracranial germinoma,A brain cancer that is characterized by abnormally proliferating cells,intracranial germinoma,germ cell cancer
+germ cell and embryonal cancer,A germ cell cancer that is derives_from a mixture of germs cells and embryonal cells.,germ cell and embryonal neoplasm,germ cell cancer
+germinoma,A germ cell cancer that lacks histologic differentiation. It usually refers to a tumor in the brain.,notochordal tumor,germ cell cancer
+mixed germ cell cancer,A germ cell cancer that occurs in many forms.,mixed teratoma and seminoma,germ cell cancer
+seminoma,A germinoma that has_material_basis_in cells that make sperm and eggs.,Seminoma,germ cell cancer
+dysgerminoma,A germ cell cancer that derives_from cells that give rise to egg cells.,Seminoma,germ cell cancer
+extragonadal germ cell cancer,A germ cell cancer that derives_from germ cells that are found in areas of the body other than the ovary or testicle. The tumors originate in the sperm forming cells in the testicles or egg producing cells in the ovary.,tumor of extragonadal germ cell,germ cell cancer
+fallopian tube germ cell cancer,A fallopian tube cancer that derives_from germ cells.,fallopian tube germ cell neoplasm,germ cell cancer
+pediatric germ cell cancer,A germ cell cancer that presents in childhood.,pediatric germ cell tumor,germ cell cancer
+embryonal cancer,A germ cell cancer that is associated with an embryo.,embryonal neoplasm,germ cell cancer

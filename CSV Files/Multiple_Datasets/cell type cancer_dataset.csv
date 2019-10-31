@@ -1,0 +1,13 @@
+Name,Definition,Synonym,Output
+blastoma,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from precursor cells called blast cells.,3-methylglutaconic acuduria type IX,cell type cancer
+malignant adenoma,A mitochondrial metabolism disease that is characterized by delayed psychomotor development and lactic acidosis with a normal lactate/pyruvate ratio resulting from impaired mitochondrial pyruvate oxidation and has_material_basis_in homozygous mutation in the BRP44L gene on chromosome 6q27.,X-linked spondyloepiphyseal dysplasia tarda,cell type cancer
+sarcoma,A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.,tumor of soft tissue and skeleton,cell type cancer
+obsolete glaucoma due to raised episcleral venous pressure,A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.,Glaucoma with increased episcleral venous pressure (disorder),cell type cancer
+mixed cell type cancer,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from two germinal layers of tissue.,mixed tumor,cell type cancer
+malignant mesothelioma,A cell type cancer that has_material_basis_in mesothelial tissue that develops from the thin layer of tissue that covers many of the internal organs.,malignant tumor of Mesothelium,cell type cancer
+melanoma,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from melanocytes which are found in skin,Naevocarcinoma,cell type cancer
+germ cell cancer,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from germ cells.,malignant tumor of the germ cell,cell type cancer
+obsolete ovarian mixed germ cell-sex cord neoplasm,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from germ cells.,Ovarian mixed germ cell-Sex Cord tumor,cell type cancer
+carcinoma,A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,malignant Epithelioma,cell type cancer
+malignant glioma,A cell type cancer that has_material_basis_in glial cells and is located in brain or located in spine.,Neuroglial tumor,cell type cancer
+mesenchymal cell neoplasm,A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic connective tissue that is capable of developing into connective tissue,mesenchymal tumor,cell type cancer

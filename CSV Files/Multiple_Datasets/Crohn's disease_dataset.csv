@@ -1,0 +1,6 @@
+Name,Definition,Synonym,Output
+jejunoileitis,An inflammatory bowel disease that is characterized by patchy areas of inflammation located_in jejunum,Pseudomembranous colitis,Crohn's disease
+ileitis,An inflammatory bowel disease characterized by inflammation located_in ileum,Crohn's ileitis,Crohn's disease
+ileocolitis,An inflammatory bowel disease characterized by inflammation located_in colon and located_in ileum,Crohn's ileitis,Crohn's disease
+gastroduodenal Crohn's disease,An inflammatory bowel disease characterized by inflammation located_in stomach and located_in duodenum,upper GI Crohn's disease,Crohn's disease
+Crohn's colitis,An inflammatory bowel disease characterized by inflammation located_in colon only,upper GI Crohn's disease,Crohn's disease

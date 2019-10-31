@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6a6f73-8fb6-4047-811b-9d3a95738271" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Script/NLP_Preprocessing_Code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSV Files/cso dataset uncleaned .csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/.idea/Script.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/.idea/Script.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Doctor Dataset Model/CSV Files/doid.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Doctor Dataset Model/stopwords" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/ICMLA_2014_2015_2016_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Final_Ontology_Code/ICMLA_2014_2015_2016_2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/NLP_Code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/PDF_to_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PDF_to_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/031xuy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/031xuy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/06171866.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/06171866.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/08694872.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/08694872.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/10.1.1.799.8427.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/10.1.1.799.8427.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/112-wijewickrema-en.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/112-wijewickrema-en.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/83.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/83.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/96677d3de298fd6421bdf6b978099cc959d7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/96677d3de298fd6421bdf6b978099cc959d7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/CODIT_16_CURRENT1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/CODIT_16_CURRENT1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/ICSC2014-Final.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/ICSC2014-Final.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/Ontology-Based-Backpropagation-Neural-Network-Classification-and-Reasoning-Strategy-for-NoSQL-and-SQL-Databases.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/Ontology-Based-Backpropagation-Neural-Network-Classification-and-Reasoning-Strategy-for-NoSQL-and-SQL-Databases.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/Ontology-Based_Automatic_Classification_for_the_Web_Pages-libre2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/Ontology-Based_Automatic_Classification_for_the_Web_Pages-libre2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/breen2002.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/breen2002.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_PDF/ontologybasedgroupingofproducts.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_PDF/ontologybasedgroupingofproducts.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/031xuy.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/031xuy.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/06171866.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/06171866.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/08694872.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/08694872.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/10.1.1.799.8427.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/10.1.1.799.8427.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/112-wijewickrema-en.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/112-wijewickrema-en.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/83.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/83.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/96677d3de298fd6421bdf6b978099cc959d7.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/96677d3de298fd6421bdf6b978099cc959d7.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/CODIT_16_CURRENT1.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/CODIT_16_CURRENT1.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/ICSC2014-Final.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/ICSC2014-Final.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/Ontology-Based-Backpropagation-Neural-Network-Classification-and-Reasoning-Strategy-for-NoSQL-and-SQL-Databases.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/Ontology-Based-Backpropagation-Neural-Network-Classification-and-Reasoning-Strategy-for-NoSQL-and-SQL-Databases.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/Ontology-Based_Automatic_Classification_for_the_Web_Pages-libre2.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/Ontology-Based_Automatic_Classification_for_the_Web_Pages-libre2.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/breen2002.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/breen2002.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_TEXT/ontologybasedgroupingofproducts.pdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_TEXT/ontologybasedgroupingofproducts.pdf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_Paper_XML/031xuy.pdf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_Paper_XML/031xuy.pdf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_paper_Abstract.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_paper_Abstract.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/Research_paper_Abstract.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/PAPERS/Research_paper_Abstract.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/cso-classifier" beforeDir="false" afterPath="$PROJECT_DIR$/../Script/cso-classifier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/doid_updated.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/grid notes.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Script/myfile.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_Multiple_CSV_for_different_classes___1_.coverage" NAME="Creating Multiple CSV for different classes  (1) Coverage Results" MODIFIED="1571415771949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_keywords_from_input_chavi_.coverage" NAME="Creating_keywords_from_input(chavi) Coverage Results" MODIFIED="1571471784227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_Multiple_CSV_for_different_classes___2_.coverage" NAME="Creating Multiple CSV for different classes  (2) Coverage Results" MODIFIED="1571485930927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSV Reading Writing Codes" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_Feature_words_for_each_class.coverage" NAME="Creating Feature_words_for each class Coverage Results" MODIFIED="1571723170225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Handling_Input.coverage" NAME="Handling_Input Coverage Results" MODIFIED="1571837907945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Ontology_Code" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_Multiple_CSV_for_different_classes_.coverage" NAME="Creating Multiple CSV for different classes  Coverage Results" MODIFIED="1571415700877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Ontology_Code" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Complete_NLP_Code.coverage" NAME="Complete NLP Code Coverage Results" MODIFIED="1572291686537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_keywords_from_input.coverage" NAME="Creating_keywords_from_input Coverage Results" MODIFIED="1571485510208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Json_Ontology_Code.coverage" NAME="Json-Ontology Code Coverage Results" MODIFIED="1572253357155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_Dataset.coverage" NAME="Creating_Dataset Coverage Results" MODIFIED="1571836365867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Ontology_Code" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_Multiple_Datasets.coverage" NAME="Creating Multiple Datasets Coverage Results" MODIFIED="1570649965636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$NLP_Normal_Text_Classification.coverage" NAME="NLP_Normal_Text_Classification Coverage Results" MODIFIED="1571842331252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Dataset_building.coverage" NAME="Dataset_building Coverage Results" MODIFIED="1570640710071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$NLP_Classifier.coverage" NAME="NLP_Classifier Coverage Results" MODIFIED="1570641743138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_keywords_from_input_and_ontology_matching.coverage" NAME="Creating_keywords_from_input_and_ontology_matching Coverage Results" MODIFIED="1571840730917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Doctor_Dataset$Creating_keywords_from_input__1_.coverage" NAME="Creating_keywords_from_input (1) Coverage Results" MODIFIED="1570654230515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ontology Matching Files" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Sample_Doctor_Dataset" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Json-Ontology Code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Complete NLP Code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="376" selection-start-line="376" selection-end-line="376" />
+              <folding>
+                <element signature="e#201#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CLL/</find>
+      <find>input</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dataset_building.py" />
+        <option value="$PROJECT_DIR$/Feature set words.py" />
+        <option value="$PROJECT_DIR$/Final_Code_Complete.ipynb" />
+        <option value="$PROJECT_DIR$/Cleaning_text_data.py" />
+        <option value="$PROJECT_DIR$/Cleaninig_Class.py" />
+        <option value="$PROJECT_DIR$/Creating Multiple Datasets.py" />
+        <option value="$PROJECT_DIR$/NLP_Classifier.py" />
+        <option value="$PROJECT_DIR$/../Final_Ontology_Code/Creating Multiple CSV for different classes .py" />
+        <option value="$PROJECT_DIR$/Creating Multiple CSV for different classes .py" />
+        <option value="$PROJECT_DIR$/Creating_keywords_from_input(chavi).py" />
+        <option value="$PROJECT_DIR$/Final_Code_Complete.py" />
+        <option value="$PROJECT_DIR$/Creating_keywords_from_input.py" />
+        <option value="$PROJECT_DIR$/CSV Reading Writing Codes/Creating Multiple CSV for different classes .py" />
+        <option value="$PROJECT_DIR$/Cleaninig_Class(Temp_File).py" />
+        <option value="$PROJECT_DIR$/NLP_cleaning.py" />
+        <option value="$PROJECT_DIR$/Initial_Cleaning_File.py" />
+        <option value="$PROJECT_DIR$/All Notebooks/Creating_Feature_Words_For_Each_Class.ipynb" />
+        <option value="$PROJECT_DIR$/ontology_code.py" />
+        <option value="$PROJECT_DIR$/Creating_keywords_from_input_and_ontology_matching.py" />
+        <option value="$PROJECT_DIR$/../Final_Ontology_Code/Handling_Input.py" />
+        <option value="$PROJECT_DIR$/../Final_Ontology_Code/Creating_Dataset.py" />
+        <option value="$PROJECT_DIR$/../Final_Ontology_Code/NLP_Normal_Text_Classification.py" />
+        <option value="$PROJECT_DIR$/../Final_Ontology_Code/Creating Feature_words_for each class(NLP after Ontology Matching).py" />
+        <option value="$PROJECT_DIR$/NLP_Normal_Text_Classification.py" />
+        <option value="$PROJECT_DIR$/Creating Feature_words_for each class.py" />
+        <option value="$PROJECT_DIR$/Temporary codes/Initial_Cleaning_File.py" />
+        <option value="$PROJECT_DIR$/Json-Ontology Code.py" />
+        <option value="$PROJECT_DIR$/Complete NLP Code.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sample_Doctor_Dataset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sample_Doctor_Dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/Python Projects/Machine_Learning_Codes" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset" />
+      <recent name="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset\Temporary codes" />
+      <recent name="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset\CSV Reading Writing Codes" />
+      <recent name="D:\Development\Minor Project-Ontology Based\Final_Ontology_Code" />
+      <recent name="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset\Ontology Matching Files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset" />
+      <recent name="D:\Development\Minor Project-Ontology Based\Final_Ontology_Code" />
+      <recent name="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset\All Notebooks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Complete NLP Code">
+    <configuration name="Complete NLP Code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Doctor_Dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Complete NLP Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Creating_keywords_from_input_and_ontology_matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Doctor_Dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Creating_keywords_from_input_and_ontology_matching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Handling_Input" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Final_Ontology_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Final_Ontology_Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Final_Ontology_Code/Handling_Input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Json-Ontology Code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Doctor_Dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json-Ontology Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NLP_Normal_Text_Classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Doctor_Dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Development\Minor Project-Ontology Based\Sample_Doctor_Dataset\Temporary codes\NLP_Normal_Text_Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Complete NLP Code" />
+        <item itemvalue="Python.Json-Ontology Code" />
+        <item itemvalue="Python.NLP_Normal_Text_Classification" />
+        <item itemvalue="Python.Creating_keywords_from_input_and_ontology_matching" />
+        <item itemvalue="Python.Handling_Input" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6a6f73-8fb6-4047-811b-9d3a95738271" name="Default Changelist" comment="" />
+      <created>1570640197298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570640197298</updated>
+      <workItem from="1570640198603" duration="17842000" />
+      <workItem from="1570694420393" duration="52000" />
+      <workItem from="1570705956349" duration="3155000" />
+      <workItem from="1570712579393" duration="1225000" />
+      <workItem from="1571072271480" duration="1340000" />
+      <workItem from="1571296272449" duration="290000" />
+      <workItem from="1571338037906" duration="1129000" />
+      <workItem from="1571407268084" duration="1377000" />
+      <workItem from="1571413092397" duration="3206000" />
+      <workItem from="1571471332426" duration="3005000" />
+      <workItem from="1571483491058" duration="7034000" />
+      <workItem from="1571574140951" duration="60000" />
+      <workItem from="1571574811992" duration="2392000" />
+      <workItem from="1571665393574" duration="3776000" />
+      <workItem from="1571720501361" duration="8165000" />
+      <workItem from="1571834776436" duration="10009000" />
+      <workItem from="1572011305213" duration="297000" />
+      <workItem from="1572089553803" duration="2257000" />
+      <workItem from="1572250846998" duration="1784000" />
+      <workItem from="1572289794835" duration="2083000" />
+      <workItem from="1572334800065" duration="1250000" />
+      <workItem from="1572340714458" duration="1270000" />
+      <workItem from="1572350205896" duration="7000" />
+      <workItem from="1572515905787" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73317000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49905124" visible="true" weight="0.24786781" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5009488" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3856988" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stopwords">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All Notebooks/Final_Code_Complete.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All Notebooks/NLP_cleaning.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All Notebooks/NLP_leaning.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ontology Matching Files/Data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3060" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV Files/Multiple_Datasets/photoallergic dermatitis_dataset.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV Files/Multiple_Datasets/2-hydroxyglutaric aciduria_dataset.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="97" selection-start-line="1" selection-start-column="97" selection-end-line="1" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV Files/Multiple_Datasets/3-Methylcrotonyl-CoA carboxylase deficiency_dataset.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV Reading Writing Codes/Dataset_building.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV Reading Writing Codes/Creating Multiple CSV for different classes .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All Notebooks/stopwords">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontology_code.py" />
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/stopwords">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temporary codes/Cleaninig_Class(Temp_File).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All Notebooks/Creating_Feature_Words_For_Each_Class.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ontology Matching Files/owltry">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="45" selection-end-line="50" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/ICMLA_2014_2015_2016_2017.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/Handling_Input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="285" column="30" selection-start-line="285" selection-start-column="30" selection-end-line="285" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/Creating_Dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/NLP_Normal_Text_Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/Creating Feature_words_for each class(NLP after Ontology Matching).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="246" column="37" lean-forward="true" selection-start-line="246" selection-start-column="37" selection-end-line="246" selection-end-column="37" />
+          <folding>
+            <element signature="e#201#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temporary codes/NLP_cleaning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1135">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temporary codes/NLP_Normal_Text_Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="235" lean-forward="true" selection-start-line="235" selection-end-line="235" />
+          <folding>
+            <element signature="e#201#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Code_Complete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temporary codes/Initial_Cleaning_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Ontology_Code/CSO.3.1.owl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSO.owl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3910" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creating_keywords_from_input_and_ontology_matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="269" column="30" lean-forward="true" selection-start-line="269" selection-start-column="30" selection-end-line="269" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Json-Ontology Code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Complete NLP Code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="376" selection-start-line="376" selection-end-line="376" />
+          <folding>
+            <element signature="e#201#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

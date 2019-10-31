@@ -1,0 +1,23 @@
+Name,Definition,Synonym,Output
+nickel allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger nickel atom.,allergic contact dermatitis to Ni,allergic contact dermatitis
+diphenylmethane-4,An allergic contact dermatitis that has_allergic_trigger diphenylmethane-4,allergic contact dermatitis to MDI,allergic contact dermatitis
+cobalt allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger cobalt atom.,allergic contact dermatitis to Co,allergic contact dermatitis
+palladium allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger palladium.,allergic contact dermatitis to Pd,allergic contact dermatitis
+chromium allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger chromium atom.,allergic contact dermatitis to Pd,allergic contact dermatitis
+benzoic acid allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger benzoic acid.,allergic contact dermatitis to benzoate,allergic contact dermatitis
+1,An allergic contact dermatitis that has_allergic_trigger 1,allergic contact dermatitis to PPD,allergic contact dermatitis
+potassium dichromate allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger potassium dichromate.,allergic contact dermatitis to PPD,allergic contact dermatitis
+carvone allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger (-)-carvone.,allergic contact dermatitis to levo-carvone,allergic contact dermatitis
+neomycin sulfate allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger neomycin sulfate.,allergic contact dermatitis to neomycin sulphate,allergic contact dermatitis
+4-tert-butylphenol allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger 4-tert-butylphenol.,allergic contact dermatitis to PTBP,allergic contact dermatitis
+1-chloro-2,An allergic contact dermatitis that has_allergic_trigger 1-chloro-2,allergic contact dermatitis to DNCB,allergic contact dermatitis
+parthenolide allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger parthenolide.,allergic contact dermatitis to feverfew,allergic contact dermatitis
+formaldehyde allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger formaldehyde.,allergic contact dermatitis to formalin,allergic contact dermatitis
+benzo[d]isothiazol-3-one allergic contact dermatitis,An allergic contact dermatitis that has_allergic_trigger benzo[d]isothiazol-3-one.,allergic contact dermatitis to BIT,allergic contact dermatitis
+2,An allergic contact dermatitis that has_allergic_trigger 2,allergic contact dermatitis to DNP,allergic contact dermatitis
+N,An allergic contact dermatitis that has_allergic_trigger N,neoprene allergy,allergic contact dermatitis
+N,An allergic contact dermatitis that has_allergic_trigger N,neoprene allergy,allergic contact dermatitis
+allergic contact dermatitis of eyelid,A noninfectious dermatoses of eyelid that is characterized by eczema,Contact and allergic dermatitis of eyelid,allergic contact dermatitis
+photoallergic dermatitis,An allergic contact dermatitis that is characterized by a delayed-type hypersensitivity cutaneous reaction in response to a photoantigen applied to the skin in individuals previously sensitized to the same substance,Photoallergic eczema,allergic contact dermatitis
+toxicodendron dermatitis,An allergic contact dermatitis that has_allergic_trigger members of the toxicodendron family,Rhus dermatitis,allergic contact dermatitis
+obsolete primary Chlamydiaceae infectious disease,An allergic contact dermatitis that has_allergic_trigger members of the toxicodendron family,chlamydiaceae infection,allergic contact dermatitis

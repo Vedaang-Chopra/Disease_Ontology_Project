@@ -1,0 +1,26 @@
+Name,Definition,Synonym,Output
+gastrointestinal system benign neoplasm,An organ system benign neoplasm located_in gastrointestinal tract organs.,squamous cell carcinoma of paranasal sinus,gastrointestinal system disease
+gallbladder disease,A gastrointestinal system disease that is located_in the gallbladder.,drooping eyelid,gastrointestinal system disease
+esophageal atresia/tracheoesophageal fistula,A gastrointestinal system disease that is characterized by abnormal development of the esophagus and trachea where the upper esophagus does not connect (atresia) to the lower esophagus and stomach and may also include tracheoesophageal fistula where the esophagus and the trachea are abnormally connected which allows fluids from the esophagus to get into the airways and interfere with breathing.,tracheoesophageal fistula with or without esohageal atresia,gastrointestinal system disease
+mucositis,A gastrointestinal system disease that is characterized by painful inflammation and ulceration of the mucous membranes lining the digestive tract.,veno-occlusive disease,gastrointestinal system disease
+diarrhea,A gastrointestinal system disease described as the condition of having frequent loose or liquid bowel movements. Acute diarrhea is a common cause of death in developing countries and the second most common cause of infant deaths worldwide. The loss of fluids through diarrhea can cause severe dehydration which is one cause of death in diarrhea sufferers. Along with water,diarrhoea,gastrointestinal system disease
+obsolete HIV enteropathy,A Human immunodeficiency virus infectious disease that results_in infection characterized by chronic diarrhea lasting longer than 1 month,diarrhoea,gastrointestinal system disease
+gastrointestinal anthrax,An anthrax disease that results in infection located in mucosa of gastrointestinal tract,RH-MGA1,gastrointestinal system disease
+obsolete upper limb cancer,An anthrax disease that results in infection located in mucosa of gastrointestinal tract,malignant tumor of upper limb (disorder),gastrointestinal system disease
+gastrointestinal tularemia,A tularemia that results in formation of ulcerative lesions located in gastrointestinal tract. The infection has symptom fever,intestinal tularaemia,gastrointestinal system disease
+gastroenteritis,A gastrointestinal system infectious disease that involves inflammation of the lining of the stomach and small and large intestines,infectious colitis,gastrointestinal system disease
+hepatobiliary disease,A gastrointestinal system disease that is located_in the liver and/or biliary tract.,liver and biliary tract disease,gastrointestinal system disease
+gastrointestinal system cancer,An organ system cancer located_in gastrointestinal tract that is manifested in organs of the gastrointestinal system.,GI tumor,gastrointestinal system disease
+mouth disease,A gastrointestinal system disease that is located_in the mouth.,Erosive gastropathy,gastrointestinal system disease
+intestinal disease,A gastrointestinal system disease that is located_in the intestine.,leiomyosarcoma of Vessels,gastrointestinal system disease
+appendix disease,A gastrointestinal system disease that is located_in the appendix.,Weak heart,gastrointestinal system disease
+esophageal disease,A gastrointestinal system disease that is located_in the esophagus.,esophageal Ulcer,gastrointestinal system disease
+peptic ulcer disease,An immune system disease that is located_in the lymphatic system.,acute peptic ulcer without hemorrhage and without perforation,gastrointestinal system disease
+stomach disease,A gastrointestinal system disease that is located_in the stomach.,stomach disorder,gastrointestinal system disease
+peritonitis,A gastrointestinal system disease that involves inflammation of the peritoneum resulting from perforation of the gastrointestinal tract,sclerosing mesenteritis,gastrointestinal system disease
+obsolete nonmetastatic epithelioid sarcoma,A gastrointestinal system disease that involves inflammation of the peritoneum resulting from perforation of the gastrointestinal tract,Non-metastatic epithelioid cell sarcoma,gastrointestinal system disease
+obsolete metastatic epithelioid sarcoma,A gastrointestinal system disease that involves inflammation of the peritoneum resulting from perforation of the gastrointestinal tract,metastatic epithelioid cell sarcoma,gastrointestinal system disease
+obsolete Multiple Chondromatous hamartoma of lung,A gastrointestinal system disease that involves inflammation of the peritoneum resulting from perforation of the gastrointestinal tract,Multiple Chondromatous hamartoma of the lung,gastrointestinal system disease
+gastroesophageal reflux disease,A pharynx cancer that is located_in the hypopharynx.,GERD - Gastro-esophageal reflux disease,gastrointestinal system disease
+obsolete ophthalmic herpes zoster,A Varicellovirus infectious disease that results_in infection located_in eye,Ophthalmic herpes zoster infection,gastrointestinal system disease
+perinatal necrotizing enterocolitis,A sarcoma that has_material_basis in lymphatic tissue.,Pseudomembranous enterocolitis in newborn,gastrointestinal system disease

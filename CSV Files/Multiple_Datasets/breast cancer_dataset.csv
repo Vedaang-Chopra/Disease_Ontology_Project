@@ -1,0 +1,21 @@
+Name,Definition,Synonym,Output
+female breast cancer,A breast cancer that develops from breast tissue in females.,hypotonic cerebral palsy,breast cancer
+estrogen-receptor positive breast cancer,A breast cancer that is characterized by the presence of estrogen receptors.,non-bacterial thrombotic endocarditis,breast cancer
+estrogen-receptor negative breast cancer,A breast cancer that is characterized by the absence of estrogen receptors.,non-bacterial thrombotic endocarditis,breast cancer
+progesterone-receptor positive breast cancer,A breast cancer that is characterized by the presence of progesterone receptors.,non-bacterial thrombotic endocarditis,breast cancer
+progesterone-receptor negative breast cancer,A breast cancer that is characterized by the absence of progesterone receptors.,non-bacterial thrombotic endocarditis,breast cancer
+Her2-receptor positive breast cancer,A breast cancer that is characterized by the presence of Her2 receptors.,non-bacterial thrombotic endocarditis,breast cancer
+Her2-receptor negative breast cancer,A breast cancer that is characterized by the absence of Her2 receptors.,non-bacterial thrombotic endocarditis,breast cancer
+triple-receptor negative breast cancer,A breast cancer that is characterized by the absence of estrogen,non-bacterial thrombotic endocarditis,breast cancer
+male breast cancer,A breast cancer that occurs in males.,neoplasm of male breast,breast cancer
+breast myoepithelial neoplasm,A breast cancer that arises from myoepithelial cells,tumor of Nipple,breast cancer
+breast granular cell tumor,A breast cancer that is believed to arises_from Schwann cells.,Lobular Intraepithelial Neoplasia,breast cancer
+breast malignant phyllodes tumor,A breast cancer that is characterized by a prominent infiltrative border,Phyllodes tumor,breast cancer
+breast sarcoma,A breast cancer that has_material_basis_in abnormally proliferating cells derives_from mesenchymal cells.,sarcoma of breast,breast cancer
+obsolete postpartum acute renal failure,A breast cancer that has_material_basis_in abnormally proliferating cells derives_from mesenchymal cells.,sarcoma of breast,breast cancer
+breast carcinoma,A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,Mammary carcinoma,breast cancer
+obsolete breast hamartoma,A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,Mammary carcinoma,breast cancer
+obsolete hamartoma,A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,hamartomatous polyp (morphologic abnormality),breast cancer
+malignant breast melanoma,A breast cancer that arises_from melanocytes.,malignant melanoma of breast,breast cancer
+breast lymphoma,A breast cancer that arises_from lymphocytes.,malignant lymphoma of breast,breast cancer
+breast malignant eccrine spiradenoma,A breast cancer that arises_from cutaneous sweat glands and is characterized by a focus of benign spiradenoma within or adjacent to the malignant tumor,malignant Eccrine Spiradenoma of the breast,breast cancer

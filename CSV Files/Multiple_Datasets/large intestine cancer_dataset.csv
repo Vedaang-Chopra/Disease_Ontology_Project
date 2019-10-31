@@ -1,0 +1,6 @@
+Name,Definition,Synonym,Output
+anal canal cancer,A large intestine cancer that is located_in the terminal part of the large intestine.,Small cell carcinoma,large intestine cancer
+large intestine adenocarcinoma,A large intestine cancer that has_material_basis_in epithelial cells of glandular origin.,appendix carcinoid endocrine tumour,large intestine cancer
+anus cancer,A large intestine cancer that is located_in the anus.,malignant anal tumor,large intestine cancer
+cecum cancer,A large intestine cancer that is located_in the cecum.,malignant tumor of the cecum,large intestine cancer
+colorectal cancer,A large intestine cancer that is located_in the colon and/or located_in the rectum.,Wilhemsen-Lynch disease,large intestine cancer

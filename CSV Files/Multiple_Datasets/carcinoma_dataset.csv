@@ -1,0 +1,82 @@
+Name,Definition,Synonym,Output
+small cell carcinoma,A carcinoma that is an undifferentiated neoplasm composed of primitive-appearing cells.,Small cell carcinoma,carcinoma
+vaginal carcinoma,A vaginal cancer that has_material_basis_in epithelial cells.,appendix carcinoid endocrine tumour,carcinoma
+lymph node adenoid cystic carcinoma,A lymph node cancer that is characterized by a distinctive pattern in which abnormal nests or cords of epithelial cells surround and/or infiltrate ducts or glandular structures of the lymph nodes. These structures are typically filled with a mucous-like material or contain abnormal fibrous membranes.,lymph node adenoid cystic cancer,carcinoma
+NUT midline carcinoma,A carcinoma that is characterized by a  BRD4-NUT translocation involving the rearrangement of the bromodomain-containing protein 4 (BRD4) and the gene encoding nuclear protein of the testis (NUT)  at 15q14,nuclear protein in testis midline carcinoma,carcinoma
+prostate carcinoma,A prostate cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,carcinoma of prostate,carcinoma
+vulva carcinoma,A vulva cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,Vulvar carcinoma,carcinoma
+cecum carcinoma,A cecum cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,Cecal cancer,carcinoma
+colon carcinoma,A colon cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,Colonic carcinoma,carcinoma
+parathyroid carcinoma,An endocrine gland cancer located_in the parathyroid glands located in the neck.,parathyroid neoplasm,carcinoma
+head and neck carcinoma,A head and neck cancer that has_material_basis_in epithelial cells and is located in the upper aerodigestive tract,carcinoma of the neck,carcinoma
+obsolete metastatic neoplasm of parathyroid,A head and neck cancer that has_material_basis_in epithelial cells and is located in the upper aerodigestive tract,metastatic tumor of Parathyroid,carcinoma
+obsolete glandular and epithelial neoplasm,A head and neck cancer that has_material_basis_in epithelial cells and is located in the upper aerodigestive tract,metastatic tumor of Parathyroid,carcinoma
+obsolete gestational diabetes complicating pregnancy,A head and neck cancer that has_material_basis_in epithelial cells and is located in the upper aerodigestive tract,Diabetes mellitus,carcinoma
+squamous cell carcinoma,A carcinoma that derives_from squamous epithelial cells.,squamous cell Epithelioma,carcinoma
+neuroendocrine carcinoma,A carcinoma that derives_from neuroendocrine cells.,peripheral ossifying fibroma,carcinoma
+obsolete secondary malignant neoplasm to the pancreas,A carcinoma that derives_from neuroendocrine cells.,secondary malignant neoplasm of pancreas (disorder),carcinoma
+fallopian tube carcinoma,A fallopian tube cancer that is located_in the fallopian tube.,fallopian tube Ca,carcinoma
+ovary epithelial cancer,An ovarian cancer that is derives_from ovarian surface epithelium.,Ovarian Surface epithelial-Stromal tumor,carcinoma
+glottis carcinoma,A respiratory system cancer that is located_in the larynx.,Glottic carcinoma,carcinoma
+laryngeal carcinoma,A larynx cancer that has_material_basis_in epithelial cells.,carcinoma of larynx,carcinoma
+transitional cell carcinoma,A carcinoma that derives_from transitional epithelial cells.,urothelial cell carcinoma,carcinoma
+bone carcinoma,A bone cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,Unspecified disease due to mycobacteria,carcinoma
+endometrial carcinoma,A endometrial cancer that is located_in the tissue lining the uterus.,endometrioid carcinoma of female Reproductive system,carcinoma
+obsolete metastatic tumor to the larynx,A endometrial cancer that is located_in the tissue lining the uterus.,endometrioid carcinoma of female Reproductive system,carcinoma
+obsolete metastasis to the neck,A endometrial cancer that is located_in the tissue lining the uterus.,metastatic tumor to the neck,carcinoma
+lacrimal gland carcinoma,A viral infectious disease that results_in infection in birds and humans,carcinoma of the lacrimal gland,carcinoma
+obsolete Avulavirus infectious disease,A Paramyxoviridae infectious disease that results_in infection in birds and rarely humans,carcinoma of the lacrimal gland,carcinoma
+eye carcinoma,An ocular cancer that has_material_basis_in abnormally proliferating cells,Ocular carcinoma,carcinoma
+obsolete Orbivirus infectious disease,A Reoviridae infectious disease that results_in infection in vertebrates,Ocular carcinoma,carcinoma
+adenocarcinoma,A carcinoma that has_material_basis_in abnormally proliferating cells,adenocarcinomas,carcinoma
+obsolete tumor of specialized prostatic stroma,A carcinoma that has_material_basis_in abnormally proliferating cells,adenocarcinomas,carcinoma
+obsolete stromal neoplasm,A carcinoma that has_material_basis_in abnormally proliferating cells,stromal tumors,carcinoma
+acinar cell carcinoma,A carcinoma that has_material_basis_in abnormally proliferating cells,acinic cell carcinoma,carcinoma
+obsolete metastatic prostatic adenocarcinoma,A carcinoma that has_material_basis_in abnormally proliferating cells,acinic cell carcinoma,carcinoma
+obsolete metastatic adenocarcinoma,A carcinoma that has_material_basis_in abnormally proliferating cells,adenocarcinoma,carcinoma
+obsolete intramucosal adenocarcinoma colon adenoma,A carcinoma that has_material_basis_in abnormally proliferating cells,Colonic adenoma with Intramucosal adenocarcinoma,carcinoma
+papillary carcinoma,A carcinoma that is derives_from epithelial cells with finger like projections.,Papillary carcinoma,carcinoma
+penis carcinoma,A penile cancer that is located_in the skin or tissues of the penis.,Penile carcinoma,carcinoma
+bronchus carcinoma,A bronchus cancer that has_material_basis_in epithelial cells.,BC - Bronchogenic carcinoma,carcinoma
+lung carcinoma,A lung cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the lungs and has_symptom cough and has_symptom chest discomfort or pain and has_symptom weight loss and has_symptom hemoptysis.,carcinoma of lung,carcinoma
+thyroid gland carcinoma,A thyroid gland cancer that has_material_basis_in epithelial cells.,thyroid gland carcinoma,carcinoma
+Schneiderian carcinoma,An ovarian cancer that has_material_basis_in epithelial tissue and is located_in the ovary.,Cylindrical cell carcinoma,carcinoma
+bladder carcinoma,A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,carcinoma of urinary bladder,carcinoma
+renal carcinoma,A kidney cancer that derives_from the lining of the proximal convoluted tubule (the very small tubes in the kidney that filter the blood and remove waste products).,kidney carcinoma,carcinoma
+obsolete recurrent renal cell carcinoma,A kidney cancer that derives_from the lining of the proximal convoluted tubule (the very small tubes in the kidney that filter the blood and remove waste products).,Relapsed Renal cell carcinoma,carcinoma
+large cell carcinoma,A carcinoma that is composed of large,neoplasm of anus,carcinoma
+myoepithelial carcinoma,A carcinoma that derives_from myoepithelial cells.,phantom bone disease,carcinoma
+trachea carcinoma,A tracheal cancer that effects the airway that leads from the larynx to the bronchi.,Trachea carcinoma,carcinoma
+appendix carcinoma,An appendix cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,carcinoma of appendix,carcinoma
+granular cell carcinoma,A carcinoma that derives_from epithelial cells,granular cell adenocarcinoma,carcinoma
+obsolete intestinal type carcinoma,A carcinoma that derives_from epithelial cells,adenocarcinoma,carcinoma
+pancreatic carcinoma,A pancreas cancer that derives_from epithelial cells located_in the pancreas.,Pancreatic carcinoma,carcinoma
+small intestine carcinoma,A small intestine cancer that develops from epithelial cells and is located_in the small intestine.,small intestinal carcinoma,carcinoma
+anal carcinoma,A anus cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the anus.,carcinoma of anus,carcinoma
+pituitary carcinoma,An esophageal carcinoma that derives_from epithelial cells of glandular origin.,carcinoma of the Pituitary gland,carcinoma
+renal pelvis carcinoma,A renal pelvis carcinoma that derives_from epithelial cells of glandular origin.,renal pelvis cancer,carcinoma
+nasal cavity carcinoma,A nasal cavity cancer that_has_material_basis_in epithelial cells.,carcinoma of nasal cavity,carcinoma
+ampulla of Vater carcinoma,An ampulla of Vater cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.,carcinoma of ampulla of vater,carcinoma
+ureter carcinoma,An ureter cancer that is located_in the ureter.,ureteral carcinoma,carcinoma
+obsolete combined hepatocellular carcinoma and cholangiocarcinoma,An ureter cancer that is located_in the ureter.,Combined hepatocellular carcinoma and cholangiocarcinoma (morphologic abnormality),carcinoma
+urinary bladder villous adenoma,An ovarian disease where ovaries do not produce estrogen despite high levels of circulating gonadotropins in women under 40.,villous adenoma of urinary bladder,carcinoma
+stomach carcinoma,A stomach cancer that is located_in the stomach.,gastric carcinoma,carcinoma
+lymphoepithelioma-like carcinoma,A carcinoma that is a malignant epithelial neoplasm densely infiltrated by lymphoid cells.,Nasopharyngeal type Undifferentiated carcinoma,carcinoma
+pleomorphic carcinoma,A carcinoma that is consisting of spindle or giant cells (or both) combined with squamous cell carcinoma,Pleomorphic carcinoma,carcinoma
+obsolete helicobacter pylori-related carcinoma,A carcinoma that is consisting of spindle or giant cells (or both) combined with squamous cell carcinoma,Pleomorphic carcinoma,carcinoma
+sweat gland carcinoma,A carcinoma that is consisting of spindle or giant cells (or both) combined with squamous cell carcinoma,carcinoma of the Sweat gland,carcinoma
+anal canal carcinoma,An anal canal cancer that derives_from epithelial cells.,anal canal and Perianal gland carcinoma,carcinoma
+gastric fundus carcinoma,A substance abuse that involves the recurring use of amphetamines despite negative consequences.,carcinoma of fundus of stomach,carcinoma
+obsolete recurrent stomach cancer,A substance abuse that involves the recurring use of amphetamines despite negative consequences.,recurrent gastric cancer,carcinoma
+colon small cell carcinoma,An astrocytoma that is characterized as a low grade astrocytoma and has_material_basis_in neoplastic astrocytes.,Colonic small cell carcinoma,carcinoma
+obsolete recurrent pediatric optic nerve astrocytoma,An astrocytoma that is characterized as a low grade astrocytoma and has_material_basis_in neoplastic astrocytes.,Colonic small cell carcinoma,carcinoma
+obsolete recurrent pediatric optic nerve glioma,An astrocytoma that is characterized as a low grade astrocytoma and has_material_basis_in neoplastic astrocytes.,Colonic small cell carcinoma,carcinoma
+obsolete recurrent childhood optic tract astrocytoma,An astrocytoma that is characterized as a low grade astrocytoma and has_material_basis_in neoplastic astrocytes.,recurrent pediatric visual pathway astrocytoma,carcinoma
+obsolete recurrent glioma of childhood visual pathway,An astrocytoma that is characterized as a low grade astrocytoma and has_material_basis_in neoplastic astrocytes.,relapsed glioma of the pediatric visual pathway,carcinoma
+ureter small cell carcinoma,A fibrosarcoma of soft tissue and small intestinal sarcoma that is located_in the small bowel.,ureteral small cell carcinoma,carcinoma
+obsolete recurrent ureteric cancer,A fibrosarcoma of soft tissue and small intestinal sarcoma that is located_in the small bowel.,recurrent Ureter carcinoma,carcinoma
+endometrial small cell carcinoma,An small cell carcinoma that has_material_basis in small cells and located_in the endometrium.,ampullary small cell carcinoma,carcinoma
+prostate small cell carcinoma,A small cell carcinoma that is characterized as an undifferentiated neoplasm composed of primitive-appearing cells and located_in Bartholin's gland.,small cell carcinoma of prostate,carcinoma
+laryngeal small cell carcinoma,A small cell carcinoma that is characterized as an undifferentiated neoplasm composed of primitive-appearing cells and located_in Bartholin's gland.,small cell carcinoma of Larynx,carcinoma
+obsolete papillary cystic tumor,A small cell carcinoma that is characterized as an undifferentiated neoplasm composed of primitive-appearing cells and located_in Bartholin's gland.,solid pseudopapillary tumour,carcinoma
+Skene gland carcinoma,A uterine body mixed cancer that derives_from epithelial cells which originate in glandular tissue and connective tissue.,paraurethral gland carcinoma,carcinoma

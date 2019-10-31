@@ -1,0 +1,9 @@
+Name,Definition,Synonym,Output
+isocyanates allergic asthma,An allergic asthma that has_allergic_trigger isocyanates.,allergic asthma to HMDI,allergic asthma
+nickel allergic asthma,An allergic asthma that has_allergic_trigger nickel atom.,allergic asthma to Ni,allergic asthma
+trimellitic anhydride allergic asthma,An allergic asthma that has_allergic_trigger trimellitic anhydride.,allergic asthma to TMA,allergic asthma
+phthalic anhydride allergic asthma,An allergic asthma that has_allergic_trigger phthalic anhydride.,allergic asthma to TMA,allergic asthma
+maleic anhydride allergic asthma,An allergic asthma that has_allergic_trigger maleic anhydride.,allergic asthma to MA,allergic asthma
+tetrachlorophthalic anhydride allergic asthma,An allergic asthma that has_allergic_trigger tetrachlorophthalic anhydride.,allergic asthma to MA,allergic asthma
+hexahydrophthalic anhydride allergic asthma,An allergic asthma that has_allergic_trigger hexahydrophthalic anhydride.,allergic asthma to HHPA,allergic asthma
+cobalt allergic asthma,An allergic asthma that has_allergic_trigger cobalt atom.,Co allergic asthma,allergic asthma

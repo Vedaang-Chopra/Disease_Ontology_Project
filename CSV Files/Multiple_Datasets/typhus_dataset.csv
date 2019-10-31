@@ -1,0 +1,6 @@
+Name,Definition,Synonym,Output
+epidemic typhus,A typhus that has_material_basis _in Rickettsia prowazekii,sylvatic typhus,typhus
+endemic typhus,A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis,Urban Typhus of Malaya,typhus
+obsolete lymphangitis-associated rickettsiosis,A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis,Urban Typhus of Malaya,typhus
+obsolete Rickettsia aeschlimannii spotted fever,A typhus that has_material_basis_in Rickettsia typhi or has_material_basis_in Rickettsia felis,Urban Typhus of Malaya,typhus
+scrub typhus,A typhus that has_material_basis_in Orientia tsutsugamushi,Typhus fever due to Rickettsia tsutsugamushi,typhus

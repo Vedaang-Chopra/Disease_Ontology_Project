@@ -1,0 +1,7 @@
+Name,Definition,Synonym,Output
+spermatogenic failure 15,An azoospermia characterized by autosomal recessive inheritance of azoospermia that has_material_basis_in mutation in the SYCE1 gene on chromosome 10q26.,SPGF15,azoospermia
+spermatogenic failure 4,An azoospermia characterized by autosomal dominant inheritance of nonobstructive azoospermia caused by meiotic abnormalities that has_material_basis_in mutation in the SYCP3 gene on chromosome 12q23.,SPGF4,azoospermia
+spermatogenic failure 22,An azoospermia characterized by autosomal recessive inheritance of spermatocyte maturation arrest resulting in azoospermia that has_material_basis_in mutation in the MEIOB gene on chromosome 16p13.,SPGF22,azoospermia
+spermatogenic failure 14,An azoospermia characterized by autosomal recessive inheritance of a maturation arrest in the spermatid stage of development that has_material_basis_in mutation in the ZMYND15 gene on chromosome 17p13.,SPGF14,azoospermia
+spermatogenic failure 23,An azoospermia characterized by autosomal recessive inhertitance of nonobstructive azoospermia that has_material_basis_in mutation in the TEX14 gene on chromosome 17q23.,SPGF23,azoospermia
+X-linked spermatogenic failure 2,An azoospermia characterized by meiotic arrest of spermatocytes and mixed testicular atrophy that has_material_basis_in X-linked inheritance of mutation in the TEX11 gene on chromosome Xq13.,SPGFX2,azoospermia

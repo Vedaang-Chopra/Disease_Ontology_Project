@@ -1,0 +1,52 @@
+Name,Definition,Synonym,Output
+posterior polar cataract,A cataract that is characterized by a distinctive discoid lens opacity situated posteriorly and adjacent to the posterior capsule.,CATARACT,cataract
+cataract 32 multiple types,A cataract that has_material_basis_in mutation in the region 14q22-q23.,posterior polar cataract 5,cataract
+cataract 8 multiple types,A cataract that has_material_basis_in variation in the region 1pter-p36.13.,CTRCT8,cataract
+cataract 6 multiple types,A cataract that has_material_basis_in heterozygous mutation in the EPHA2 gene on chromosome 1p36.,posterior polar cataract 1,cataract
+cataract 34 multiple types,A cataract that has_material_basis_in variation in the region 1p34.3-p32.2.,CTRCT34,cataract
+cataract 1 multiple types,A cataract that has_material_basis_in heterozygous mutation in the gene encoding the alpha-8 subunit of the gap junction protein (GJA8) on chromosome 1q21.,zonular pulverulent cataract 1,cataract
+cataract 29,A cataract that has_material_basis_in variation in the region 2pter-p24.,cataract 29 coralliform,cataract
+cataract 27,A cataract that has_material_basis_in mutation in the region 2p12.,CTRCT27,cataract
+cataract 4 multiple types,A cataract that has_material_basis_in heterozygous mutation in the gamma-D-crystallin gene (CRYGD) on chromosome 2q33.,CTRCT4,cataract
+cataract 2 multiple types,A cataract that has_material_basis_in heterozygous mutation in the CRYGC gene on chromosome 2q33.,CTRCT2,cataract
+cataract 39 multiple types,A cataract  that has_material_basis_in heterozygous mutation in the CRYGB gene on chromosome 2q34.,CTRCT39,cataract
+cataract 42,A cataract  that has_material_basis_in heterozygous mutation in the CRYGB gene on chromosome 2q34.,CTRCT42,cataract
+cataract 18,A cataract that has_material_basis_in homozygous mutation in the FYCO1 gene on chromosome 3p21.3.,CTRCT18,cataract
+cataract 12 multiple types,A cataract that has_material_basis_in heterozygous mutation in the gene encoding beaded filament structural protein-2 (BFSP2) on chromosome 3q22.,CTRCT12,cataract
+cataract 20 multiple types,A cataract that has_material_basis_in heterozygous mutation in the CRYGS gene on chromosome 3q27.,CTRCT20,cataract
+cataract 41,A cataract that has_material_basis_in heterozygous mutation in the WFS1 gene on chromosome 4p16.,CTRCT41,cataract
+cataract 13 with adult i phenotype,A cataract that has_material_basis_in homozygous or compound heterozygous mutation in the GCNT2 gene on chromosome 6p24.,CTRCT13,cataract
+cataract 46 juvenile-onset,A cataract that has_material_basis_in homozygous mutation in the LEMD2 gene on chromosome 6p21.,juvenilae cataract Hutterite type,cataract
+cataract 28,A cataract that has_material_basis_in variation in the region 6p12-q12.,CTRCT28,cataract
+cataract 38,A cataract that has_material_basis_in homozygous mutation in the AGK gene on chromosome 7q34.,CTRCT38,cataract
+cataract 26 multiple types,A cataract that has_material_basis_in variation in the region 9q13-q22.,CTRCT26,cataract
+cataract 36,A cataract that has_material_basis_in homozygous mutation in the TDRD7 gene on chromosome 9q22.33.,CTRCT36,cataract
+cataract 30,A cataract that has_material_basis_in heterozygous mutation in the VIM gene on chromosome 10p13.,Dusty cataract,cataract
+cataract 11 multiple types,A cataract that has_material_basis_in heterozygous mutation in the PITX3 gene on chromosome 10q24.,posterior polar cataract 4,cataract
+cataract 16 multiple types,A cataract that has_material_basis_in heterozygous or homozygous mutation in the CRYAB gene on chromosome 11q.,posterior polar cataract 2,cataract
+cataract 15 multiple types,A cataract that has_material_basis_in heterozygous mutation in the MIP gene on chromosome 12q13.,CTRCT15,cataract
+cataract 37,A cataract that has_material_basis_in variation in the region 12q24.2-q24.3.,CTRCT37,cataract
+cataract 14 multiple types,A cataract that has_material_basis_in heterozygous mutation in the gene encoding gap junction protein alpha-3 (GJA3) on chromosome 13q12.,zonular pulverulent cataract 3,cataract
+cataract 25,A cataract that has_material_basis_in variation in the region 15q21-q22.,early-onset cataract with Y-shaped suture opacities,cataract
+cataract 5 multiple types,A cataract that has_material_basis_in heterozygous mutation in the gene that encodes heat-shock transcription factor-4 (HSF4) on chromosome 16q22.,CTRCT5,cataract
+cataract 21 multiple types,A cataract that has_material_basis_in heterozygous mutation in the MAF gene on chromosome 16q23.,CTRCT21,cataract
+cataract 24,A cataract that has_material_basis_in variation in the region 17p13.,CTRCT24,cataract
+cataract 10 multiple types,A cataract that has_material_basis_in heterozygous mutation in the CRYBA1 gene on chromosome 17q11.,CTRCT10,cataract
+cataract 43,A cataract that has_material_basis_in heterozygous mutation in the UNC45B gene on chromosome 17q12.,CTRCT43,cataract
+cataract 7,A cataract that has_material_basis_in variation in the region 17q24.,CTRCT7,cataract
+cataract 35,A cataract that has_material_basis_in variation in the region 19q13.,CTRCT35,cataract
+cataract 45,A cataract that has_material_basis_in homozygous mutation in the SIPA1L3 gene on chromosome 19q13.,CTRCT45,cataract
+cataract 19 multiple types,A cataract that has_material_basis_in homozygous mutation in the LIM2 gene on chromosome 19q13.,CTRCT19,cataract
+cataract 33,A cataract that has_material_basis_in homozygous mutation in the beaded filament structural protein-1 gene (BFSP1) on chromosome 20p12.,CTRCT33,cataract
+cataract 31 multiple types,A cataract that has_material_basis_in heterozygous mutation in the CHMP4B gene on chromosome 20q11.,posterior polar cataract 3,cataract
+cataract 9 multiple types,A cataract that has_material_basis_in autosomal recessive or autosomal dominant inheritance of heterozygous or homozygous mutation in the CRYAA gene,CTRCT9,cataract
+cataract 44,A cataract that has_material_basis_in homozygous mutation in the LSS gene on chromosome 21q22.,total early-onset cataract,cataract
+cataract 22 multiple types,A cataract that has_material_basis_in heterozygous or homozygous mutation in the beta-B3 crystallin gene (CRYBB3) on chromosome 22q11.,CTRCT22,cataract
+cataract 3 multiple types,A cataract that has_material_basis_in heterozygous mutation in the beta-B2-crystallin gene (CRYBB2) on chromosome 22q11.,CTRCT3,cataract
+cataract 17 multiple types,A cataract that has_material_basis_in heterozygous or homozygous mutation in the beta-B1 crystallin gene (CRYBB1) on chromosome 22q12.,CTRCT17,cataract
+cataract 23,A cataract that has_material_basis_in heterozygous mutation in the crystallin beta-A4 gene (CRYBA4) on chromosome 22q12.,lamellar cataract 23,cataract
+cataract 40,A cataract that has_material_basis_in mutation in the NHS gene on chromosome Xp22.,CTRCT40,cataract
+diabetic cataract,A cataract that is characterized by loss of lens transparency secondary to hyperglycemia related to diabetes mellitus.,Cataract - diabetic,cataract
+tetanic cataract,A cataract resulting from hypocalcemia.,Hypocalcaemic cataract,cataract
+myotonic cataract,A cataract that is characterized by multicolored,Syphilis of synovium,cataract
+senile cataract,A cataract that is characterized by thickening and loss of transparency of the lens with age progression,abruptio placentae,cataract

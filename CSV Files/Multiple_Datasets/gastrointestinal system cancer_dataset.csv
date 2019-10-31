@@ -1,0 +1,11 @@
+Name,Definition,Synonym,Output
+gastrointestinal neuroendocrine tumor,A gastrointestinal system cancer that has_material_basis_in neuroendocrine cells.,malignant gastrointestinal neuroendocrine tumor,gastrointestinal system cancer
+gastrointestinal carcinoma,A gastrointestinal system cancer that has_material_basis_in epithelial cells.,appendix carcinoid endocrine tumour,gastrointestinal system cancer
+pharynx cancer,A gastrointestinal system cancer that is located_in the pharynx.,pharynx neoplasm,gastrointestinal system cancer
+obsolete skeletal system benign neoplasm,A gastrointestinal system cancer that is located_in the pharynx.,pharynx neoplasm,gastrointestinal system cancer
+hepatobiliary system cancer,A gastrointestinal system cancer that is located_in the hepatobiliary system.,monosomy 22q13 syndrome,gastrointestinal system cancer
+gastroesophageal cancer,A gastrointestinal system cancer that is located_in the proximal esophagus and the distal stomach.,X-linked spondyloepiphyseal dysplasia tarda,gastrointestinal system cancer
+peritoneal carcinoma,A carcinoma that is located_in the inside of the abdomen.,primary peritoneal carcinoma,gastrointestinal system cancer
+gastrointestinal lymphoma,An in situ carcinoma that is located_in the intestine.,Hodgkin's disease,gastrointestinal system cancer
+obsolete Hodgkin's sarcoma involving lymph nodes of axilla and upper limb,An in situ carcinoma that is located_in the intestine.,Hodgkin's sarcoma of lymph nodes of axilla and/or upper limb (disorder),gastrointestinal system cancer
+gastrointestinal stromal tumor,An inherited metabolic disorder that is characterized by impaired synthesis and degradation of amino acids.,Stromal tumor of gastrointestinal tract,gastrointestinal system cancer

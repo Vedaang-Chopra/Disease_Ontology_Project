@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Final_Ontology_Code/.idea/Final_Ontology_Code.iml" filepath="$PROJECT_DIR$/../Final_Ontology_Code/.idea/Final_Ontology_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sample_Doctor_Dataset.iml" filepath="$PROJECT_DIR$/.idea/Sample_Doctor_Dataset.iml" />
+    </modules>
+  </component>
+</project>

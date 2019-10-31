@@ -1,0 +1,5 @@
+Name,Definition,Synonym,Output
+mild pre-eclampsia,A pre-eclampsia characterized by the presence of hypertension without evidence of end-organ damage,MENTAL RETARDATION,pre-eclampsia
+severe pre-eclampsia,A pre-eclampsia that has_symptom at least one of the following,severe preeclampsia,pre-eclampsia
+obsolete HIV wasting syndrome,An acquired immunodeficiency syndrome that results_in involuntary loss of more than 10% of body weight,Human immunodeficiency virus infection wasting syndrome,pre-eclampsia
+eclampsia,A pre-eclampsia characterized by the presence of seizures.,Postpartum eclampsia,pre-eclampsia

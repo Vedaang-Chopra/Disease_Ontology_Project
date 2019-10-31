@@ -1,0 +1,21 @@
+Name,Definition,Synonym,Output
+schizophrenia 1,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD1 on chromosome 5q23-q35.,SCZD1,schizophrenia
+schizophrenia 2,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD2 on chromosome 11q14-q21.,SCZD2,schizophrenia
+schizophrenia 3,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD3 on chromosome 6p23.,SCZD3,schizophrenia
+schizophrenia 4,A schizophrenia that has_material_basis_in an autosomal dominant mutation of PRODH on chromosome 22q11.21.,SCZD4,schizophrenia
+schizophrenia 5,A schizophrenia that has_material_basis_in a mutation on chromosome 6q13-q26.,SCZD5,schizophrenia
+schizophrenia 6,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD6 on chromosome 8p21.,SCZD6,schizophrenia
+schizophrenia 7,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD7 on chromosome 13q32.,SCZD7,schizophrenia
+schizophrenia 8,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD8 on chromosome 18p.,SCZD8,schizophrenia
+schizophrenia 9,A schizophrenia that has_material_basis_in a mutation of DISC1 on chromosome 1q42.2.,SCZD9,schizophrenia
+schizophrenia 10,A schizophrenia that has_material_basis_in an autosomal dominant mutation of SCZD10 on chromosome 15q15.,SCZD10,schizophrenia
+schizophrenia 11,A schizophrenia that has_material_basis_in a mutation on chromosome 10q22.3.,SCZD11,schizophrenia
+schizophrenia 12,A schizophrenia that has_material_basis_in a mutation on chromosome 1p36.2.,SCZD12,schizophrenia
+schizophrenia 13,A schizophrenia that has_material_basis_in a mutation on chromosome 15q13.,SCZD13,schizophrenia
+schizophrenia 14,A schizophrenia that has_material_basis_in a mutation on chromosome 2q32.1.,SCZD14,schizophrenia
+schizophrenia 15,A schizophrenia that has_material_basis_in a mutation of SHANK3 on chromosome 22q13.33.,SCZD15,schizophrenia
+schizophrenia 16,A schizophrenia that has_material_basis_in a mutation on chromosome 7q36.3.,SCZD16,schizophrenia
+schizophrenia 18,A schizophrenia that has_material_basis_in a mutation of SLC1A1 on chromosome 9p24.2.,SCZD18,schizophrenia
+schizophrenia 19,A multiple mitochondrial dysfunctions syndrome that is characterized by progressive neurologic deterioration beginning in early infancy,Alwadei syndrome,schizophrenia
+paranoid schizophrenia,A schizophrenia characterized by delusions or auditory hallucinations of persecution or being plotted against without thought disorder,Paraphrenic schizophrenia,schizophrenia
+obsolete recurrent malignant endocervical neoplasm,A schizophrenia characterized by delusions or auditory hallucinations of persecution or being plotted against without thought disorder,Paraphrenic schizophrenia,schizophrenia

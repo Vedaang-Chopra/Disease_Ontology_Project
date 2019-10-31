@@ -1,0 +1,20 @@
+Name,Definition,Synonym,Output
+generalized dystonia,A dystonia that affects most or all of the body.,fragments of torsion dystonia,dystonia
+focal dystonia,A dystonia that is localized to a specific part of the body.,fragments of torsion dystonia,dystonia
+multifocal dystonia,A dystonia that involves two or more unrelated body parts.,fragments of torsion dystonia,dystonia
+segmental dystonia,A dystonia that affects two or more adjacent parts of the body.,fragments of torsion dystonia,dystonia
+myoclonic dystonia,A dystonia that is characterized by myoclonic jerks affecting mostly proximal muscles and dystonia,transcortin deficiency,dystonia
+torsion dystonia 13,A dystonia that is characterized by focal or segmental dystonia with cranial,transcortin deficiency,dystonia
+torsion dystonia 2,A dystonia that initially involves the distal limbs and later involves the neck,transcortin deficiency,dystonia
+torsion dystonia 4,A dystonia that is characterized by progressive laryngeal and cervical dystonia (onset in the second to third decade of life) followed by involvement of other muscles,transcortin deficiency,dystonia
+torsion dystonia 17,A dystonia that is characterized by progressive dystonia,transcortin deficiency,dystonia
+dystonia 5,A dystonia characterized by childhood-onset dystonia that responds to low doses of levodopa (L-dopa) and may be associated with parkinsonism at an older age and has_material_basis_in autosomal dominant inheritance of heterozygous mutation in the gene enconding GTP cyclohydrolase 1 (GCH1) on chromosome 14q13.,transcortin deficiency,dystonia
+dystonia 9,A dystonia that is characterized by paroxysmal choreoathetosis and progressive spastic paraplegia,transcortin deficiency,dystonia
+childhood onset GLUT1 deficiency syndrome 2,A dystonia that is characterized by paroxysmal exercise-induced dyskinesia involving transient abnormal involuntary movements in the exercised limbs,transcortin deficiency,dystonia
+dystonia 21,A dystonia characterized by late onset pure torsion dystonia that has_material_basis_in autosomal dominant inheritance of variation in the chromosome region 2q14.3-q21.3.,transcortin deficiency,dystonia
+paroxysmal nonkinesigenic dyskinesia 2,A dystonia characterized by attacks of dystonic or choreathetotic movements precipitated by stress,transcortin deficiency,dystonia
+paroxysmal nonkinesigenic dyskinesia 1,A dystonia that is characterized by attacks of dystonic or choreathetotic movements precipitated by stress,transcortin deficiency,dystonia
+episodic kinesigenic dyskinesia 1,A dystonia characterized by recurrent brief involuntary hyperkinesias triggered by sudden movements that has_material_basis_in autosomal dominant inheritance of heterozygous mutation in the proline-rich transmembrane protein 2 gene (PRRT2) on chromosome 16p11.,Paroxysmal kinesigenic choreoathetosis,dystonia
+episodic kinesigenic dyskinesia 2,A dystonia that is characterized by recurrent brief involuntary hyperkinesias triggered by sudden movements that has_material_basis_in autosomal dominant inheritance of variation in the chromosome region 16q13-q22.1.,Paroxysmal kinesigenic choreoathetosis,dystonia
+dystonia 12,A dystonia that is characterized by asymmetric dystonia and parkinsonism with abrupt onset in young adulthood that has_material_basis_in autosomal dominant inheritance of heterozygous mutation in the gene encoding the alpha-3 subunit of the N,Paroxysmal kinesigenic choreoathetosis,dystonia
+sepiapterin reductase deficiency,A dystonia characterized by sustained muscle contractions with diurnal fluctuations,SRD,dystonia

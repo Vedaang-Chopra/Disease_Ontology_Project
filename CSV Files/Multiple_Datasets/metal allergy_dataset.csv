@@ -1,0 +1,4 @@
+Name,Definition,Synonym,Output
+remazole black respiratory allergy,A respiratory allergy that has_allergic_trigger remazole black-GR.,respiratory allergy to Reactive Black 5,metal allergy
+chloramine T respiratory allergy,A respiratory allergy that has_allergic_trigger chloramine T.,respiratory allergy to Trichlorol,metal allergy
+disodium cromoglycate allergy,A drug allergy that has_allergic_trigger disodium cromoglycate.,DSCG allergy,metal allergy

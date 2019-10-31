@@ -1,0 +1,11 @@
+Name,Definition,Synonym,Output
+holoprosencephaly 2,A holoprosencephaly that has_material_basis_in mutation in the homeobox-containing SIX3 gene on chromosome 2p21.,HPE2,holoprosencephaly
+holoprosencephaly 9,A holoprosencephaly that has_material_basis_in heterozygous mutation in the GLI2 gene on chromosome 2q14.,pituitary anomalies with holoprosencephaly-like features,holoprosencephaly
+holoprosencephaly 6,A holoprosencephaly that has_material_basis_in variation in the chromosome region 2q37.1-q37.3.,HPE6,holoprosencephaly
+holoprosencephaly 3,A holoprosencephaly that has_material_basis_in heterozygous mutation in the SHH gene on chromosome 7q36.,HPE3,holoprosencephaly
+holoprosencephaly 7,A holoprosencephaly that has_material_basis_in heterozygous mutation in the PTCH1 gene on chromosome 9q22.,HPE7,holoprosencephaly
+holoprosencephaly 11,A holoprosencephaly that has_material_basis_in heterozygous mutation in the CDON gene on chromosome 11q24.,HPE11,holoprosencephaly
+holoprosencephaly 5,A holoprosencephaly that has_material_basis_in heterozygous mutation in the ZIC2 gene on chromosome 13q32.,HPE5,holoprosencephaly
+holoprosencephaly 8,A holoprosencephaly that has_material_basis_in variation in the chromosome region 14q13.,HPE8,holoprosencephaly
+holoprosencephaly 4,A holoprosencephaly that has_material_basis_in heterozygous mutation in the TGIF gene on chromosome 18p11.,HPE4,holoprosencephaly
+holoprosencephaly 1,A holoprosencephaly that has_material_basis_in variation in the chromosome region 21q22.3.,HPE1,holoprosencephaly

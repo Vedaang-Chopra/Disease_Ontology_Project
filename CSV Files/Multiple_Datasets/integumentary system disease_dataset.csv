@@ -1,0 +1,8 @@
+Name,Definition,Synonym,Output
+integumentary system benign neoplasm,An organ system benign neoplasm located_in the integumentary system organs.,pharynx neoplasm,integumentary system disease
+integumentary system cancer,An organ system cancer that is located_in the skin,pharynx neoplasm,integumentary system disease
+skin disease,An integumentary system disease that is located_in skin.,skin and subcutaneous tissue disease,integumentary system disease
+obsolete malignant olfactory nerve tumor,An integumentary system disease that is located_in skin.,primary malignant neoplasm of olfactory nerve,integumentary system disease
+nail disease,An integumentary system disease that is located_in nail.,Mycobacterial infection,integumentary system disease
+obsolete avian tuberculosis,A tuberculosis that is a chronic and progressive wasting and weakness caused by infection of companion,Infection due to Mycobacterium avium (disorder),integumentary system disease
+hair disease,An integumentary system disease that is located_in hair.,Intraparenchymal Clear cell meningioma of the Brainstem,integumentary system disease
